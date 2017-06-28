@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">  
+    <string name="no_sip_account_found">ဤဖုန္းတြင္အင္တာနက္ေခၚဆိုအေကာင့္မရွိပါ၊ယခုတိုးမလား?</string>  
+    <string name="ota_progress">သင့္ကိရိယာကို စီစဥ္ေနစဥ္ ေက်းဇူးျပဳ၍ ေစာင့္ပါ။</string>  
+    <string name="ota_skip_activation_dialog_message">စာရင္းသြင္းမႈေက်ာ္သြားလွ်င္၊ဖုန္းေခၚမရ(သုိ႔)ဖုန္းလိုင္းကြန္ယက္ကိုသုံးမရႏိုင္ပါ (Wi-Fi ႏွင့္အသုံးျပဳႏိုင္)၊ သင့္ဖုန္းစာရင္းမသြင္းလွ်င္စာရင္းသြင္းရန္ျပန္ေမးမည္</string>  
+    <string name="ota_successful">သင့္ကိရိယာကို သက္ဝင္လႈပ္ရွားေအာင္ အသက္သြင္းၿပီးျဖစ္သည္။ ဝန္ေဆာင္မႈမ်ားစတင္ရန္ ၁၅ မိနစ္အထိ လိုအပ္ပါလိမ့္မည္။</string>  
+    <string name="ota_title_activate">သင့္ကိရိယာကို သက္ဝင္ေအာင္ျပဳလုပ္ပါ</string>  
+    <string name="ota_title_activate_success">ကိရိယာကို သက္ဝင္ေအာင္ျပဳလုပ္ၿပီးၿပီ။</string>  
+    <string name="ota_touch_activate">ထူးျခားေသာဖုန္းေခၚဆိုမႈလုပ္ရန္ သင့္ကိရိယာဝန္ေဆာင္မႈကို သက္ဝင္လႈပ္ရွားေအာင္ လုပ္ရန္လိုသည္။\n\n“အသက္သြင္း” ကို ႏွိပ္ၿပီးသည့္အခါ၊ သင့္ကိရိယာကို အသက္သြင္းရန္ ေျပာေသာညႊန္ၾကားခ်က္မ်ားကို နားေထာင္ပါ။</string>  
+    <string name="ota_unsuccessful">သင့္စက္ကိရိယာ သက္ဝင္လႈပ္ရွားမႈ မရွိပါ။ \nသင့္အေနျဖင့္ ပိုေကာင္းၿပီးလိုင္းမိေသာေနရာ (ျပတင္းေပါက္နား သို႔မဟုတ္ အျပင္ဘက္) ကိုရွာရန္လိုသည္။\n\n ေနာက္ထပ္ျပန္ႀကိဳးစားပါ သို႔မဟုတ္ အသံုးျပဳသူအားဝန္ေဆာင္မႈေပးသည့္ဌာနသို႔ ေခၚပါ။</string>  
+    <string name="puk_unlocked">သင္၏ဖုန္းကဒ္ပိတ္မထားပါ၊သင္၏ဖုန္းေသာ့ဖြင့္ေနစဥ္…</string>  
+</resources>

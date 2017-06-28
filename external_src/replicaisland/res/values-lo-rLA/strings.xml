@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ເກາະຈຳລອງ</string>
+<string name="change_level">ສະຫວິດລະດັບ</string>
+<string name="test_animation">ກວດກາອະນິເມຊັນ</string>
+<string name="test_diary">ກວດກາໄດອາຣີ່</string>
+<string name="unlock_levels">ປົດລ໋ອກທຸກລະດັບ</string>
+<string name="unlock_next_level">ປົດລອກລະດັບຕໍ່ໄປ</string>
+<string name="method_tracing">ສະຫຼັບວິທີການຕິດຕາມ</string>
+
+<string name="game_over">ຈົບເກມ</string>
+<string name="thanks_for_playing">ຂອບໃຈທີ່ຫຼີ້ນ!</string>
+<string name="please_wait">ກະລຸນາລໍຖ້າ</string>
+
+
+
+<string name="preference_save_game">ຂໍ້ມູນຂອງເກມ</string>
+<string name="preference_erase_save_game">ລຶບບັນທຶກເກມ</string>
+<string name="preference_erase_save_game_dialog">ລຶບບັນທຶກເກມທ່ານແທ້ບໍ່?  ຄວາມຄືບໜ້າທັງໝົດຈະຫາຍໄປ!</string>
+<string name="preference_erase_save_game_dialog_title">ຕອນນີ້ກະລຸນາລໍຖ້າ</string>
+<string name="preference_erase_save_game_dialog_ok">ລຶບບັກທຶກ</string>
+<string name="preference_erase_save_game_dialog_cancel">ຍົກເລີກ</string>
+
+
+<string name="preference_game_settings">ການຕັ້ງຄ່າເກມ</string>
+<string name="preference_enable_sound">ເປີດສຽງ</string>
+<string name="preference_enable_sound_summary">ການປິດສຽງອາດເພີ່ມການສະແດງຂອງເຄື່ອງມືອື່ນ.</string>
+
+<string name="preference_safe_mode">ໂໝດປອດໄພ</string>
+<string name="preference_safe_mode_summary">ເປີດໃຊ້ຄວາມປອດໄພຈາກການແຮກສຳລັບອຸປະກອນທີ່ເສຍຫາຍ (Cliq, etc), ແຕ່ວ່າສ້າງບາງປັນຫາທີ່ເບິ່ງເຫັນ. ລອງອັນນີ້ຫາກທ່ານມີປັນຫາ.</string>
+
+<string name="preference_configure_controls">ກຳນົດຄ່າການຄວບຄຸມ</string>
+<string name="preference_enable_click_attack">ຄຼິກໂຈມຕີ</string>
+<string name="preference_enable_click_attack_summary">ໃຊ້ແທຼກບານ ຫຼື ແພດທິດທາງ ປຸ່ມກາງເພື່ອໂຈມຕີ.</string>
+<string name="preference_enable_screen_controls">ຄບມຄຸມເທິງໜ້າຈໍ</string>
+<string name="preference_enable_screen_controls_summary">ສະແດງແພດການເຄື່ອນໄຫວ ແລະ ປຸ່ມເທິງໜ້າຈໍ.  ແນະນຳສຳຫຼັບເຄື່ອງມື ໂດຍທີ່ບໍ່ມີແພດທິດທາງ ຫຼື ແທຼກບານ. ຕ້ອງການເທົາລິທັດ.</string>
+
+<string name="preference_enable_tilt_controls">ຄວບຄຸມອຽງ</string>
+<string name="preference_enable_tilt_controls_summary">ການທົດລອງ!  ງ່ຽງໂທລະສັບຊ້າຍຫຼືຂວາເພື່ອບັງຄັບແອນດຼອຍທົ່ວໆ.  ດີສຳລັບເຄື່ອງມືທີ່ບໍ່ມີແທຼກບານ ຫຼື d-pad.</string>
+
+<string name="preference_movement_sensitivity">ຄວາມໄວການເຄື່ອນໄຫວ</string>
+<string name="preference_movement_sensitivity_summary">ປັບຄວາມໄວຂອງແທຼກບານ, d-pad, ຫຼືເຊັນເຊີຕາ.</string>
+<string name="preference_movement_min">ຊ້າ</string>
+<string name="preference_movement_max">ໄວ</string>
+
+<string name="preference_tilt_sensitivity">ງ່ຽງຄວາມໄວຕໍ່ສຳພັດ</string>
+<string name="preference_tilt_sensitivity_summary">ປັບຄວາມໄວຂອງການຄວບຄຸມຄວາມງ່ຽງ.</string>
+<string name="preference_tilt_min">ຊ້າ</string>
+<string name="preference_tilt_max">ໄວ</string>
+
+<string name="preference_key_config">ກຳນົດຄ່າແປ້ນພິມ</string>
+<string name="preference_key_config_summary">ກຳນົດແປ້ນພິມສຳຫຼັບມືຖືດວ້ຍຄີບອດ.</string>
+<string name="preference_key_config_dialog_title">ກຳນົດຄ່າແປ້ນພິມ</string>
+<string name="preference_key_config_dialog_ok">ບັນທຶກ</string>
+<string name="preference_key_config_dialog_cancel">ຍົກເລີກl</string>
+<string name="preference_key_config_left">ຊ້າຍ</string>
+<string name="preference_key_config_right">ຂວາ</string>
+<string name="preference_key_config_jump">ໂດດ</string>
+<string name="preference_key_config_attack">ໂຈມຕີ</string>
+
+
+<string name="preference_enable_statistics">ລາຍງານ ສະຖິຕິການຫຼີ້ນ</string>
+<string name="preference_enable_statistics_summary">Sends anonymous play statistics to a server to help us make this game more fun.</string>
+
+
+<string name="preference_about">ກ່ຽວກັບ</string>
+<string name="preference_about_title">ກ່ຽວກັບເກາະຈຳລອງ</string>
+<string name="preference_about_summary">Replica Island was made by Chris Pruett and Genki Mine, and produced by Tom Moss.</string>
+<string name="preference_visit_site">Go to the Replica Island web site</string>
+<string name="preference_thanks_title">ຂອບໃຈເປັນພິເສດ</string>
+<string name="preference_thanks_summary">ຂອບໃຈພິເສດໃຫ້ Eido Inoue, Casey Richardson, Jason Chen, Tim Mansfield, ແລະ ທີມງານ Android ທີ່ສະໜັບສະໜຸນໂຄງການນີ້.</string>
+<string name="preference_licence_title">ໃບອະນຸຍາດ</string>
+<string name="preference_licence_summary">Portions of this game are modifications based on work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.</string>
+<string name="preference_misc">ຂໍ້ມູນເພີ່ມເຕີມ</string>
+<string name="preference_enable_debug">ການແກ້ໄຂປັນຫາເຂົ້າສູ່ລະບົບ</string>
+<string name="preference_enable_debug_summary">ບັນທຶກເອົ້າພຸດຕ່າງໆທີ່ລອກແຄັດ.  ຕົວເລືອກນີ້ຈະເຮັດໃຫ້ເກມຊ້າລົງ.</string>
+
+<string name="game_results_title">ຜົນຂອງເກມ</string>
+<string name="game_results_pearls_collected">ໄຂ່ມຸກທີ່ສະສົມ:</string>
+<string name="game_results_robots_destroyed">ຫຸ່ນຍົນທີ່ທຳລາຍ:</string>
+<string name="game_results_total_play_time">ເວລາທີ່ຫຼິ້ນທັງໝົດ:</string>
+<string name="game_results_ending">ຜົນສຳເລັດສີ້ນສຸດ:</string>
+<string name="game_results_unlocks_message">You can now access Linear Mode and the Level Select from the Extras menu!</string>
+<string name="game_results_kabocha_ending">ຈົບບໍ່ດີ #1 - ຄະໂບຊະ ຊະນະ</string>
+<string name="game_results_rokudou_ending">ຈົບບໍ່ດີ #2 - ໂຣກຸໂດ ຊະນະ</string>
+<string name="game_results_wanda_ending">ຈົບບໍ່ດີ- ຮັກສາໂລກໄວ້ໄດ້!</string>
+<string name="game_results_ok_button">ຈົບເກມ!</string>
+
+<string name="saved_game_erased_notification">ບັນທຶກຂອງເກມຖືກລຶບ</string>
+
+<string name="quit_game_dialog_title">ອອກເກມ?</string>
+<string name="quit_game_dialog_ok">ອອກ</string>
+<string name="quit_game_dialog_cancel">ຍົກເລີກ</string>
+<string name="quit_game_dialog_message">ກັບໄປເມນູຫຼັກບໍ່?</string>
+
+<string name="new_game_dialog_title">ເລີ່ມເກມໃໝ່ບໍ່?</string>
+<string name="new_game_dialog_ok">ເລີ່ມເກມໃໝ່</string>
+<string name="new_game_dialog_cancel">ຍົກເລີກ</string>
+<string name="new_game_dialog_message">Starting a new game in this mode will erase your current game in progress.  ທ່ານໝັ້ນໃຈບໍ່ຫວາຢາກເລີ້ມເກມໃໝ່?</string>
+
+<string name="extras_locked_dialog_title">ລ໋ອກພິເສດ!</string>
+<string name="extras_locked_dialog_ok">ໄດ້ຮັບັມນ!</string>
+<string name="extras_locked_dialog_message">ຟີດເຈີ້ເສີມນີ້ຍັງລ໋ອກຢູ່.  ຊະນະເກມໃນເທື່ອດຽວເພື່ອປົກລ໋ອກມັນ!</string>
+
+
+<string name="nav_type">ແທຼກບານ</string>
+
+<string name="whats_new_dialog_title">ເກາະຈຳລອງ</string>
+<string name="whats_new_dialog_ok">Rock on! </string>
+<string name="whats_new_dialog_message">Thanks for downloading Replica Island.  Over 1.5 million people have played Replica Island!\n\n
+<b>New in this version:</b>\n
+- Unlockable extra modes: Linear Story Mode and Level Select.\n
+- On-screen controls for devices with no buttons.\n
+- Difficulty settings for new games. \n
+- Play statistics shown when you finish the game.\n
+- Lots of bugs fixed!\n
+\n
+\n
+This is an open source project.  If you are interested in how it works, or would like to use it to make your
+own games, check out the source at our web site, replicaisland.net.
+\n
+\n
+Also note that this game sends anonymous play statistics back to a server.  If you’d rather not
+allow that, you can turn it off in the options screen.</string>
+
+<string name="control_setup_dialog_title">ຕິດຕັ້ງການຄວບຄຸມ</string>
+<string name="control_setup_dialog_ok">ຖີ້ມມັນໄວ້ແບບນັ້ນ</string>
+<string name="control_setup_dialog_change">ປ່ຽນການຕັ້ງຄ່າຄວບຄຸມ</string>
+<string name="control_setup_dialog_message"> ອີງຕາມອຸປະກອນຮາດແວຂອງທ່ານ, ການຄວບຄຸມຕໍ່ໄປນີ້ຖືກເລືອກອັດຕະໂນມັດ: <br/><br/><small>%1s</small><br/><br/>ເກາະຈຳລອງ ຮອງຮັບຫຼາຍໆຊະນິດຂອງການຄວບຄຸມmany different control configurations.  ຕົວເລືອກການຄວບຄຸມສາມາດປ່ຽນຕອນໃດກໍໄດ້ ປຸ່ມຄວບຄຸມຢູ່ໃນໂຕເລືອກ. <br/><br/> ທ່ານຕົກລົງບໍ່ທີ່ຈະຄວບຄຸມລະບົບທີ່ເລືອກເທິງນີ້, ຫຼືທ່ານຢາກຈະຕັ້ງການຄວບຄຸມດ້ວຍຕົວທ່ານເອງ?</string>
+<string name="control_setup_dialog_trackball"><b>ແທຼກບານ / ແທຼກແພດ</b> - ຄວາມໄວສາມາດປັບໄດ້ທີ່ ຕົວເລືອກ.</string>
+<string name="control_setup_dialog_dpad"><b>ຄີບອດ / ແພັດ</b> - ຄີ ແມັບປິ້ງ ສາມາດປ່ຽນທີ່ຕົວເລືອກ.</string>
+<string name="control_setup_dialog_screen"><b>ແພດເທິງໜ້າຈໍ</b></string>
+<string name="control_setup_dialog_tilt"><b>ງ່ຽງ</b> - ຄວາມໄວສາມາດປັບໄດ້ທີ່ ຕົວເລືອກ.</string> 
+
+<string name="onscreen_tilt_dialog_title">ແບບແຜນບັງຄັບໃໝ່!</string>
+<string name="onscreen_tilt_dialog_ok">ຢູ່ເທິງໜ້າຈໍ Pad</string>
+<string name="onscreen_tilt_dialog_cancel">ຕິດກັບການອຽງ</string>
+<string name="onscreen_tilt_dialog_message">ເວີຊັນນີ້ຂອງເກາະຈຳລອງແມ່ນເພີ່ມຕົວເລືອກ ສຳຫຼັບ<b>ການຄວບຄຸມເທິງໜ້າຈໍ</b> ສຳຫຼັບເຄື່ອງມື multi-touch.  ອຸປະກອນຂອງທ່ານຮອງຮັບໂໝດໃໝ່ນີ້, ແຕ່ຕົວເລືອກຂອງທ່ານໄດ້ຕັ້ງ<b>ງ່ຽງ</b> ບັງຄັບ.  ທ່ານຕ້ອງການຢາກລອງການຄວບຄຸມເທິງໜ້າຈໍແທນ, ຫຼື ໃຊ້ການງ່ຽງ?  \n<small>ເຈົ້າສາມາດປ່ຽນການຕັ້ງຄ່ານີ້ໄດ້ຕະຫຼອດເວລາໂດຍການເລືອກ ກຳນົດຄ່າການຄວບຄຸມ ພາຍໃນໂຕເລືອກ.</small> </string>
+
+<string name="whats_new_ticker">ໃໝ່ໃນເວີຊັນນີ້: ຄວບຄຸມຢູ່ໜ້າຈໍ, app-to-sd ກາດ ຮອງຮັບ, ສາມາດປົດລ໋ອກໂໝດພິເສດໄດ້, ສະເລ່ຍເກມຫຼັງຈາກຊະນະ, ມີລະດັບງ່າຍ(ບໍ່ງ່າຍເກີນໄປ) ແກ້ໄຂບັກ.</string>
+
+<string name="baby_description">ບໍ່ມີຄວາມທ້າທາຍເລີຍ.</string>
+<string name="kids_description">ການຂັບຂີ່ທີ່ສະດວກສະບາຍຈົນເຖິງປາຍທາງ.</string>
+<string name="adults_description">ຄວາມສຳເລັດທີ່ແທ້ຈິງໄດ້ມາຢ່າງຍາກລຳບາກ.</string>
+
+
+
+<string name="memory_playback_start">ເລີ່ມຄວາມຈຳຫຼີ້ນຄືນ</string>
+<string name="memory_playback_complete">ຄວາມຈຳຫຼີ້ນຄືນສົມບູນ</string>
+<string name="diary_found">ຊອກເຫັນໄດອາຣີ່ເກົ່າ</string>
+
+
+
+<string name="Wanda">ວານດາ</string>
+<string name="Kyle">ໄຄ</string>
+<string name="Kabocha">ດຣ. ຄາໂບຊະໂນມິສຸ</string>
+<string name="Rokudou">ທ້າວ. ໂຣກຸໂດ</string>
+<string name="Android">ແອນດຼອຍ</string>
+
+
+<string name="level_0_1_sewer">ຄວາມຈຳ #000</string>
+<string name="level_0_2_lab">ຄວາມຈຳ #001</string>
+<string name="level_0_3_lab">ຄວາມຈຳ #002</string>
+
+<string name="level_1_1_island">ຄວາມຈຳ #003</string>
+<string name="level_1_2_island">ຄວາມຈຳ#004</string>
+<string name="level_1_3_island">ຄວາມຈຳ #005</string>
+<string name="level_1_4_island">ຄວາມຈຳ #006</string>
+<string name="level_1_5_island">ຄວາມຈຳ #007</string>
+<string name="level_1_6_island">ຄວາມຈຳ #008</string>
+<string name="level_1_7_island">ຄວາມຈຳ #009</string>
+<string name="level_1_8_island">ຄວາມຈຳ #010</string>
+<string name="level_1_9_island">ຄວາມຈຳ #011</string>
+
+<string name="level_2_1_grass">ຄວາມຈຳ #012</string>
+<string name="level_2_2_grass">ຄວາມຈຳ #013</string>
+<string name="level_2_3_grass">ຄວາມຈຳ #014</string>
+<string name="level_2_4_grass">ຄວາມຈຳ #015</string>
+<string name="level_2_5_grass">ຄວາມຈຳ #016</string>
+<string name="level_2_6_grass">ຄວາມຈຳ #017</string>
+<string name="level_2_7_grass">ຄວາມຈຳ #018</string>
+<string name="level_2_8_grass">ຄວາມຈຳ #019</string>
+<string name="level_2_9_grass">ຄວາມຈຳ #020</string>
+
+<string name="level_3_1_sewer">ຄວາມຈຳ #021</string>
+<string name="level_3_2_sewer">ຄວາມຈຳ #022</string>
+<string name="level_3_3_sewer">ຄວາມຈຳ #023</string>
+<string name="level_3_4_sewer">ຄວາມຈຳ #024</string>
+<string name="level_0_1_sewer_kyle">ຄວາມຈຳ #024.3</string>
+<string name="level_0_1_sewer_wanda">ຄວາມຈຳ #024.7</string>
+<string name="level_3_5_sewer">ຄວາມຈຳ #025</string> 
+<string name="level_3_6_sewer">ຄວາມຈຳ #026</string>
+<string name="level_3_7_sewer">ຄວາມຈຳ #027</string>
+<string name="level_3_8_sewer">ຄວາມຈຳ #028</string>
+<string name="level_3_9_sewer">ຄວາມຈຳ #029</string>
+<string name="level_3_10_sewer">ຄວາມຈຳ #030</string>
+<string name="level_3_11_sewer">ຄວາມຈຳ #030.5</string> 
+
+<string name="level_4_1_underground">ຄວາມຈຳ #031</string>
+<string name="level_4_2_underground">ຄວາມຈຳ #032</string>
+<string name="level_4_3_underground">ຄວາມຈຳ #033</string>
+<string name="level_4_4_underground">ຄວາມຈຳ #034</string>
+<string name="level_4_5_underground">ຄວາມຈຳ #035</string>
+<string name="level_4_6_underground">ຄວາມຈຳ #036</string>
+<string name="level_4_7_underground">ຄວາມຈຳ #037</string>
+<string name="level_4_8_underground">ຄວາມຈຳ #038</string>
+<string name="level_4_9_underground">ຄວາມຈຳ #039</string>
+
+<string name="level_final_boss_lab">ຄວາມຈຳ #040</string>
+
+<string name="level_puzzle_test">ທົດສອບປິດສະໜາ</string>
+<string name="level_object_test">ທົດສອບວັດຖຸ</string>
+<string name="level_performance_test">ທົດສອບການສະແດງ</string>
+<string name="level_performance_test2">ທົດສອບການສະແດງ 2</string>
+<string name="level_performance_test3">ທົດສອບການສະແດງ 3</string>
+<string name="level_performance_test4">ທົດສອບການສະແດງ Google IO </string>
+<string name="level_npc_motion_test">ທົດສອບການເຄື່ອນໄຫວ NPC </string>
+
+
+
+
+<string name="level_0_1_time">+ 07:12:03</string>
+<string name="level_0_2_time">+ 00:00:00</string>
+<string name="level_0_3_time">+ 00:06:26</string>
+
+<string name="level_1_1_time">+ 00:34:10</string>
+<string name="level_1_2_time">+ 00:44:46</string>
+<string name="level_1_3_time">+ 00:52:16</string>
+<string name="level_1_4_time">+ 00:59:01</string>
+<string name="level_1_5_time">+ 01:07:24</string>
+<string name="level_1_6_time">+ 01:23:38</string>
+<string name="level_1_7_time">+ 01:38:04</string>
+<string name="level_1_8_time">+ 01:42:00</string>
+<string name="level_1_9_time">+ 01:56:44</string>
+
+<string name="level_2_1_time">+ 02:25:18</string>
+<string name="level_2_2_time">+ 02:37:20</string>
+<string name="level_2_3_time">+ 02:40:13</string>
+<string name="level_2_4_time">+ 02:51:09</string>
+<string name="level_2_5_time">+ 03:01:55</string>
+<string name="level_2_6_time">+ 03:16:28</string>
+<string name="level_2_7_time">+ 03:33:12</string>
+<string name="level_2_8_time">+ 03:46:07</string>
+<string name="level_2_9_time">+ 03:54:29</string>
+
+<string name="level_3_1_time">+ 04:07:10</string>
+<string name="level_3_2_time">+ 04:18:42</string>
+<string name="level_3_3_time">+ 04:45:15</string>
+<string name="level_3_4_time">+ 04:59:06</string>
+<string name="level_3_5_time">+ 07:19:59</string>
+<string name="level_3_6_time">+ 07:36:17</string>
+<string name="level_3_7_time">+ 07:51:24</string>
+<string name="level_3_8_time">+ 08:16:55</string>
+<string name="level_3_9_time">+ 08:35:12</string>
+<string name="level_3_10_time">+ 08:50:36</string>
+<string name="level_3_11_time">+ 08:55:54</string>
+
+<string name="level_4_1_time">+ 09:10:01</string>
+<string name="level_4_2_time">+ 09:42:40</string>
+<string name="level_4_3_time">+ 09:58:11</string>
+<string name="level_4_4_time">+ 10:27:36</string>
+<string name="level_4_5_time">+ 10:52:10</string>
+<string name="level_4_6_time">+ 11:12:35</string>
+<string name="level_4_7_time">+ 11:39:04</string>
+<string name="level_4_8_time">+ 11:57:22</string>
+<string name="level_4_9_time">+ 12:13:40</string>
+<string name="level_final_boss_time">+ 12:45:12</string>
+<string name="level_test_time">(ລະດັບການທົດສອບ)</string>
+
+
+
+<string name="Diary1">
+Log Entry - Thursday - Sunny\n
+I have arrived!  I borrowed a dinghy from the freighter and rowed to shore as the ship passed by the island early this morning.  The captain has promised to return for me in two weeks; more than enough time to complete my mission.  
+\n
+\n
+I find myself standing in the middle of a vast beach, with sand dunes stretching great distances down the coastline and the green of tropical forest visible near the horizon.  An uninformed man would think this place a paradise.  I know better.  Still, I cannot help but marvel at the island’s wholly unnatural beauty.
+</string>
+
+<string name="Diary2"> Log Entry - ວັນອາທິດ - ມີແດດ\n ກ່ອນຈາກລາດິນແດນຫຼັກໄດ້ພົບກັບທ່ານ. ໂຣຄຸໂດ ກ່ຽວກັບພາລະກິດ.  ລາວເປັຮຄົນທີ່ຍິ່ງໃຫຍ່, ເປັນຄົນຜູ້ທີ່ຈະລົງມືປ່ຽນຫຼາຍກວ່າເວົ້າຊື່ໆ.  ຂ້ອຍດີໃຈຫຼາຍທີ່ລາວໄດ້ຍອມຮັບຄວາມສາມາດທີ່ພິເສດຂອງຂ້ອຍ.  ຂ້ອຍບໍ່ແມ່ນທັງນັກຢູ່ລອດ ຫຼື ພວກທີ່ມັກກາງແຈ້ງ; ຂ້ອຍຈື່ບໍ່ໄດ້ເລີຍວ່າເທື່ອສຸດທ້າຍທີ່ຂ້ອຍໄປຕັ້ງແຄັມແມ່ນມື້ໃດ.  ທ່ານ. ໂຮກຸໂດສະຫຼາດທີ່ໄດ້ເລືອກຂ້ອຍມາເກາະທີ່ຖືກທອດຖີ້ມນີ້.  ຂ້ອຍບໍ່ຄວນຈະເຮັດໃຫ້ລາວເສຍໃຈ.  </string>
+
+<string name="Diary3">
+Log Entry - ??? - Dark\n
+Analysis of slime-like creature.  Resembles an arthropod except instead of protective armor the beast seems to be covered in a soft, sticky substance resembling tar.  Suspect genetic similarities to Holothuroidea, but the island’s influence has twisted the result into a dangerous menace.  I ate a piece of the specimen and gagged.\n
+\n
+I never should have come here.  Rokudou tricked me into this, and now I cannot even find my way back to the surface.  The freighter has surely long since come and gone; my sense of time is quickly losing its clarity but I am sure that more than two weeks have passed since I arrived in this hellish place.  I never should have come here.\n
+
+</string>
+
+<string name="Diary4"> Log Entry - ວັນຈັນ - ໂອເວີເຄດ\n ເຈີ ສາມກຸ່ມນັກພະຈົນໄພ.  ຂ້ອຍຄິດວ່າຂ້ອຍຈະຢູ່ໃນເກາະນີ້ພຽງຄົນດຽວ, ແລະຂ້ອຍຕົກໃຈທີ່ໄດ້ຍິນສຽງມະນຸດ (ສຳນຽງບຸກລິນແນ່ນອນ!) ນອກບ່ອນທີ່ພັກຂອງຂ້ອຍ,ຂ້ອຍສະດຸດໄມ້ໄຜ່ແລະເກືອບມ້າງຫຼັງຄາ.  ກຸ່ມນັ້ນເປັນອິດສະຫຼະ ແຕ່ພວກເຂົາກໍຕາມຫາແຫຼ່ງທີ່ມາຄືກັບຂ້ອຍ.  ພວກເຂົາເປັນຄົນດີ ແຕ່ຂ້ອຍສຳພັດໄດ້ເຖິງການແຂ່ງຂັນໃນອາກາດ.  ພວກເຂົາຢູ່ນີ້ໄດ້ເປັນເດືອນແລ້ວ ແຕ່ກໍອອກຈາກປ່ານີ້ໄປເຖີງຫາດນ້ອຍຄັ້ງຫຼາຍ.  ຂ້ອຍດີໃຈທີ່ໄດ້ພົບເຂົາ ແຕ່ພວກເຂົາບໍ່ໄດ້ສະແດງທ່າທີຕໍ່ພາລະກິດຂອງຂ້ອຍ.  ພວກເຂົາສະບາຍດີ ແຕ່ສະກິວຂອງຂ້ອຍເໜືອກວ່າ.\n  </string>
+
+<string name="Diary5">
+Log Entry - Saturday - Rain\n
+Today marks three consecutive days of rain.  Last week was clear--the seas were calm and my carefully constructed shelter proved unnecessary.  I am sitting in a small alcove at the base of a hollow tree as the sky dumps golf ball-sized raindrops into the forest around me.  The beach is long behind me now and the sound of the ocean is just a memory.\n
+\n
+This is a weird place.  The oddities increase as I move closer to the center.  Since entering the forest I have seen a few things I cannot explain.  No matter, my mission is clear and success is guaranteed.  I will sleep here tonight and then venture further towards the island’s center tomorrow.\n
+
+</string>
+
+<string name="Diary6">
+Log Entry - ??? - Damp\n
+What in the world is a sewer system doing under a tropical island anyway?  The island has grown it to resemble the architecture of some old European city, but for what purpose?  What little tidbit of inspiration caused this vast underground structure to manifest?  Perhaps a photograph, or a child’s picture book.  The island itself is too far from any country with this sort of architecture for the influence to be direct.\n
+\n
+When I get out of here I am going to find Rokudou and educate him in the error of his ways.  The Source is getting closer, but I am not sure I want to find it anymore.\n
+
+</string>
+
+<string name="Diary7">
+There is no rain underground!\n
+\n
+Rain, rain, go away, come again some other day.\n
+\n
+All the king’s horses and all the king’s men couldn’t put Humpty together again.\n
+
+</string>
+
+<string name="Diary8"> Log Entry - ວັນພຸດ - ໂອເວີເຄດ\n ຂ້ອຍອາດຈະເຫັນທາງໄປປ່າ.  ທົ່ງຫຍ້າກວ້າງຂວາງຢູ່ເບື່ອງໜ້າສະແດງໃຫ້ເຫັນຄວາມປິຕິ ແຕ່ຂ້ອຍຄິດວ່າເກີນນີ້ໄປຈະເປັນຂອບເຂດປ່າໄມ້ນີ້ບາງເບົາ.  ຖ້າການຄິດໄລ່ຂອງຂ້ອຍຖືກຕ້ອງໜ້າຈະຮົ່ມເຢັນຕະຫຼອດປີ, ດັ່ງນັ້ນຂ້ອຍຄາດຫວັງຈະມີຜັກ ແລະ ໝາກໄມ້ພຽງພໍ.\n \n ກຸ່ມພະຈົນໄພທີ່ຂ້ອຍພົບສອງ ສາມມື້ກ່ອນນີ້ຢູ່ນີ້ມາເປັນເດືອນແລ້ວ ແຕ່ກໍຍັງບໍ່ສາມາດຄິດອອກ.  ຄວາມສະຫຼາດຂອງຂ້ອຍເໜືອກວ່າຢ່າງແນ່ນອນ--ຂ້ອຍສາມາດເຂົ້າໃຈວ່າເປັນຫຍັງ ທ່ານ. ໂຣກຸໂດ ເລືອກຂ້ອຍສຳຫຼັບພາລະກິດນີ້.  ເມື່ອຂ້ອຍພົບແຫຼ່ງທີ່ມາ ຂ້ອຍສະແດງວິທີໃຊ້ໃຫ້ລາວເບິ່ງ ລາວຈະເຮັດໃຫ້ຂ້ອຍເປັນຜູ້ໃຕ້ບັງຄັບບັນຊາຜູ້ທີ່2ຂອງລາບແນ່ນອນ, ເປັນຕຳແໜ່ງທີ່ມີອຳນາດຢ່າງໜ້າເຫຼືອເຊື່ອ.  ພຽງແຕ່ຄິດຫາມັນ ເຮັດໃຫ້ຂ້ອຍຮູ້ສຶກຫວິວ.  ແຕ່ຂ້ອຍຄວານຈະລ່ວງໜ້າໄປດ້ວຍໂຕເອງ; ປ່າທໍຜ້າ.\n  </string>
+
+<string name="Diary9">
+Skin skin skin skin skin skin skin skin skin skin skin.\n
+\n
+There’s not enough skin on those pirates!\n
+</string>
+
+<string name="Diary10"> Log Entry - ວັນຈັນ (?) - ຝົນ\n ຂັ້ນຕອນຂອງຂ້ອຍຖືກຈັບເນື່ອງຈາກສິ່ງທີ່ມີຊີວິດປະຫຼາດທີ່ມີຢູ່ໃນເກາະນີ້.  ບາງຄົນກໍທຳມະດາຫຼາຍພວກເຂົາອາດຍ້າຍມານີ້ຫຼັງຈາກເກາະຖືກຕັ້ງ.  ແຕ່ວ່າສ່ວນທີ່ເຫຼືອແມ່ນຜະລິດຕະພັນຂອງແຫຼ່ງທີ່ມາທີ່ຍັງບໍ່ທັນໄດ້ກວດ; ພວກເຂົາຈະບໍ່ທົນ ແມ້ກະທັ້ງ ສ່ວນທີ່ເລັກນ້ອຍທີ່ຄ້າຍຄືສຳຫຼັບລູກ ຂອງແມ່ທຳມະຊາດ.  ເກາະນີ້ແມ່ນໂທລະສານ, ແບບຈຳລອງຂອງ ສ່ວນເລັກສ່ວນນ້ອຍຂອງໂລກ, ບິດ ແລະ ເກີດຂື້ນຈາກຄວາມຫວ່າງເປົ່າ, ແຕກໜໍ່ໃນທຸກທິດທາງ.  ມັນແມ່ນພະລັງທີ່ຢູ່ໃນຮູບຮ່າງທີ່ບໍລິສຸດທີ່ສຸດຂອງມັນ, ບິດໃນທະເລໂດຍບໍ່ມີຂີດຈຳກັດ.\n \n ແຕ່ວ່າໃນມືຂອງຜູ້ນຳ, ພະລັງນັ້ນສາມາດຖືກນຳໃຊ້ໃຫ້ເປັນປະໂຫຍດອັນໃຫຍ່ຫຼວງ!  ດ້ວຍແຫຼ່ງທີ່ມາໃນມືຂອງພວກເຮົາມວນມະນຸດຈະສາມາດດັດແປງໂລກໄດ້ດັ່ງທີ່ເຮົາຢາກໃຫ້ເປັນ; ມັນອາດຈະໝາຍຄວາມວ່ານີ້ແມ່ນຈຸດຈົບທີ່ແທ້ຈິງຂອງສົງຄາມ ແລະ ຄວາມທຸກຍາກ.  ໂຣກຸໂດຕ້ອງການພະລັງນັ້ນ--ຂ້ອຍຕ້ອງການພະລັງນັ້ນ--ເຊິ່ງໂລກນີ້ຈຶ່ງຈະເປັນອິສະຫຼະຈາກລັດທະບານແລະບັນດາພວກພາຣາຊິດທີ່ຖ້າແຕ່ຈະກົດຂີ່ ແລະ ທຳລາຍ.  ໄຊຊະນະແມ່ນຢູ່ໃກ້ພຽງເອື້ອມ.\n  </string>
+
+<string name="Diary11">
+Log Entry - I’ve lost track of the date - Heavy Rain\n
+\n
+The adventurers I met are dead.  I found them hanging from the trees near a rock formation in the forest.  The discovery was startling and sad; though we were both competing for the same goal I felt a certain camaraderie with them.  They were, of course, the only other humans on the island.\n
+\n
+Though tragic, I cannot let their unfortunate end distract me from my goal.  The rock formation near the bodies is an important find; it appears to be the mouth of some sort of cave.  However, most exciting is that the rock itself looks as if it has been cut by man; I dare say that it resembles an entrance to a subway station or bunker.\n
+\n
+I will venture into the forest once more before entering the cave.  At the adventurers’ base camp I spied batteries and other useful electronic equipment, which I can surely modify.  Once I have procured those items I shall return and make my descent.\n
+
+</string>
+
+<string name="Diary12">
+Log Entry - Unknown - Underground\n
+\n
+My head hurts.  Maybe it is the fumes down here; I feel like my head is filling up with pressure and soon it will burst.  When the pain gets bad I sit down and focus on counting primes, an old childhood relaxation habit that has resurfaced here under the ground.\n
+\n
+When I find The Source, I am going to use it to cure myself of whatever it is that has taken hold of me.  If Rokudou complains then maybe I’ll just eject him from the planet.  After all, he’s not the one down here in this false sewer, with scraped knees and a pounding headache.  He’s not the one who has to go days at a time without food because there isn’t any vegetation down here.  I’m the one doing the work, so I’m the one who should get the reward.  The Source will be mine and mine alone.\n
+\n
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29\n
+
+</string>
+
+<string name="Diary13">
+He lied he lied he lied he lied.  Rokudou is a liar.  He seeks only to control.  He says he wants The Source to save the world, to rid it of the fat cats who play the planet like a marionette.  He he he HE is the fat cat, the puppeteer.  He shall not have The Source.  It shall be mine.  Mine mine mine mine mine. 73, 79, 83, 89, 97, 101, 103, 107, 109, 113.\n
+\n
+The Source is here.  It is down here, in the dark.  I can feel its heat, a warmth like the sun against my cheek.  But no, I mustn’t go to it, not not not not yet.  If I find it, Rokudou will take it from me and it will be check check check check mate.  No, Kabochanomizu is cautious.  Kabochanomizu is careful.  I shall retreat to the surface.  I know enough now to build things.  I will return only when I can guarantee my success.  Rokudou will grovel before me and the world will know Kabochanomizu as its savior.\n
+</string>
+
+<string name="Diary14">
+Log Entry - Saturday - Very Cloudy\n
+\n
+I have to admit that I was surprised when Rokudou selected me to find The Source.  True, I have studied the island from afar as much as any other researcher in the world, but slacks and a lab coat are hardly appropriate for rugged terrain.  When Rokudou offered me the job I was initially suspicious, but now I see that I am the only man with any chance of success.  The island has grown unhindered for a hundred years, and its twisted derivations of reality are the type of thing that could drive a lesser man insane.\n
+\n
+Still, I can’t say that I completely trust Rokudou.  He’s a smart man, but I am also sure that he selected me because he thought me easy to control.  I get the feeling that he’s watching me over my shoulder.  Of course, the island is free of human habitation save me and the three adventurers I met a few days ago, so the presence of a spy is unlikely.  And yet, I can’t shake this feeling of being watched.\n
+
+</string>
+
+<string name="Diary15">
+Log Entry - The days have run together - Sunny\n
+\n
+There is something I must confide, even if only to this scrap of notebook paper.\n
+\n
+I killed those adventurers.  I killed them in their sleep and then hung them from the trees as if to convince myself that the island had somehow done away with them.  It was grisly business, but necessary.  I needed their supplies, especially the batteries and flashlights they brought.  More importantly, against all odds they discovered the entrance to the cave.  They must have blundered across it while awkwardly stumbling through the forest--their brains are too small to have calculated its location.  The Source is too important to leave to such simpletons, and I couldn’t risk the possibility, no matter how remote, that they might find it first.\n
+\n
+Am I a monster?  I do not think so.  I am Dr. Kabochanomizu, widely respected scientist and the world’s expert on the inverted Atlantis that is this island.  My actions are logical and justified--I am no monster.\n
+\n
+If I am honest with myself, there is another reason the adventurers had to die.  I wanted to do it.  And I enjoyed it.
+</string>
+
+
+
+<string name="KyleDeadNote">It’s Kyle.  He’s not moving.</string>
+
+<string name="cd_Wanda">ວານດາ</string>
+<string name="cd_blah">ບຼາ ບຼາ ບຼາ ບຼາ ບຼາ</string>
+<string name="s100p">100%</string>
+<string name="zero">0</string>
+<string name="s3_21_34">3:21:34</string>
+<string name="k_A">ເອ</string>
+<string name="level_1_1">ລະດັບ 1-1</string>
+<string name="s0_02_031">+ 0:02:031</string>
+<string name="min">ຕ່ຳສຸດ</string>
+<string name="max">ສູງສຸດ</string>
+</resources>

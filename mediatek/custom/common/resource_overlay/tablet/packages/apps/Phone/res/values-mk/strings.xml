@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <string name="no_sip_account_found">На овој уред нема сметки за повикување преку интернет.  Додај сметка сега?</string>
+    <string name="ota_progress">Почекајте додека се програмира уредот.</string>
+    <string name="ota_skip_activation_dialog_message">Ако го прескокнете активирањето, не можете да воспоставувате повици или да се поврзувате на мрежи за мобилни податоци (но, може да се поврзувате на Wi-Fi-мрежи). Сè додека не го активирате уредот, од вас ќе се бара да го активирате при секое вклучување.</string>
+    <string name="ota_successful">Вашиот уред сега е активиран.  За почеток на услугата може да бидат потребни до 15 минути.</string>
+    <string name="ota_title_activate">Активирајте го уредот</string>
+    <string name="ota_title_activate_success">Уредот е активиран!</string>
+    <string name="ota_touch_activate">Треба да се изврши специјален повик за да се активира услугата на уредот. \n\nОткако ќе притиснете на \u201CАктивирај\u201D, следете ги дадените инструкции за да го активирате уредот.</string>
+    <string name="ota_unsuccessful">Уредот не се активираше. \nМожеби ќе треба да најдете место со подобра покриеност (блиску до прозорец или надвор). \n\nОбидете се повторно или јавете се во центарот за грижа на корисници за повеќе опции.</string>
+    <string name="puk_unlocked">SIM-картичката ви е одблокирана. Уредот се отклучува\u2026</string>
+</resources>

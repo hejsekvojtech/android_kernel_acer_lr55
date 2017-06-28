@@ -1,0 +1,30 @@
+How to Build
+
+kernel
+======
+1. Get the prebuilt cross compiler from AOSP website:
+   $ git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
+
+2. Copy required cross compiler to your alps folder:
+    ex. ~/alps/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
+
+3. Run the build command under your alps folder
+   $ ./mk lr55 n k
+
+output
+======
+1. When the build process is completed, the generated kernel can be found in the following path:
+   alps/out/target/product/lr55
+
+external
+========
+1. For building external projects, take the following commands as reference:
+   $ mkdir ~/AOSP
+   $ cd AOSP
+2. Sync the corresponding codebase from Android website:
+   $ repo init -u https://android.googlesource.com/platform/manifest -b android-4.4.2_r2
+   $ repo sync
+3. Copy all folders from external_src to ~/AOSP/external (replace the original folders):
+   $ cp -r /PATH_TO/external_src/*  ~/AOSP/external/
+   $ source build/envsetup.sh
+   $ make

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <string name="no_sip_account_found">ບໍ່​ມີ​ບັນ​ຊີ​ການ​ໂທ​ດ້ວຍ​ອິນ​ເຕີ​ຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ນີ້.  ​ເພີ່ມ​ອັນ​ນຶ່ງ​ດຽວ​ນີ້ຫຼື​ບໍ່?</string>
+    <string name="ota_progress">​ກະ​ລຸ​ນາ​ລໍ​ຖ້າ​ໃນ​ລະ​ຫວ່າງ​ທີ່​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ກຳ​ລັງ​ຖືກ​ໂປ​ຣ​ແກ​ຣມ.</string>
+    <string name="ota_skip_activation_dialog_message">ຫາກ​ທ່ານ​ຂ້າມ​ການ​ເປີດ​ນຳ​ໃຊ້, ທ່ານ​ຈະ​ບໍ່​ສາ​ມາດ​ທຳ​ການ​ໂທ ຫຼື ເຊື່ອມ​ຕໍ່​ກັບ​​ເຄືອ​ຂ່າຍຂໍ້​ມູນ​ມື​ຖື​ໄດ້ (ແຕ່​ທ່ານ​ຈະ​ສາ​ມາດ​ເຊື່ອມ​ຕໍ່​ກັບ​ເຄືອ​ຂ່າຍ Wi-Fi ​ໄດ້). ​ຈົນ​ກວ່າ​ທ່ານ​ຈະ​ເປີດ​ນຳ​ໃຊ້​ອຸ​ປະ​ກອນ​ຂອ​ງ​ທ່ານ, ທ່ານ​ຈະ​ຖືກ​ຖາມ​ໃຫ້​ເປີດ​ນຳ​ໃຊ້​ມັນ​ທຸກໆ​ຄັ້ງ​ທີ່​ທ່ານ​ເປີດ​ເຄື່ອງ.</string>
+    <string name="ota_successful">ອຸ​ປະ​ກອນ​ຂອງ​ຖືກເປີດ​ນຳ​ໃຊ້ທ່ານ​ແລ້ວ.  ​ມັນ​ອາດ​ໃຊ້​ເວ​ລາ​ເຖິງ 15 ນາ​ທີ​ສຳ​ລັບ​ການ​ບໍ​ລິ​ການ​ຈະ​ເລີ່ມ​ເຮັດ​ວຽກ.</string>
+    <string name="ota_title_activate">ເປີດ​ນຳ​ໃຊ້​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ</string>
+    <string name="ota_title_activate_success">​ເປີດ​ນຳ​ໃຊ້​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ແລ້ວ!</string>
+    <string name="ota_touch_activate">​​ຈຳ​ເປັນ​ຕ້ອງ​ມີການ​ໂທ​ພິ​ເສດ​ເພື່ອ​ເປີດ​ນຳ​ໃຊ້​ການ​ບໍ​ລິ​ການ​ຂອງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ. \n\nຫຼັງ​ຈາກ​ກົດ\u201CActivate\u201D, ​ກະ​ລຸ​ນາ​ຟັງ​ຄຳ​ແນະ​ນຳ​ສຳ​ລັບ​ເປີດ​ນຳ​ໃຊ້​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ.</string>
+    <string name="ota_unsuccessful">ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ບໍ່​ໄດ້​ຖືກ​ເປີດ​ນຳ​ໃຊ້. \n​ທ່ານ​ອາດ​ຕ້ອງ​ຫາ​ບໍ​ລິ​ເວນ​ທີ່​ມີ​ສັນ​ຍານ​ດີກວ່າ​ນີ້ (​ຢູ່​ໃກ້​ປ່ອງ​ຢ້ຽມ ຫຼື ນອກ​ເຮືອນ). \n\n​ລອງ​ໃໝ່​ອີ​ກ​ຄັ້ງ ຫຼື ໂທ​ຫາ​ສູນ​ບໍ​ລິ​ການ​ລູກ​ຄ້າ​ເພື່ອ​ສອບ​ຖາມ​ເພີ່ມ​ເຕີມ.</string>
+    <string name="puk_unlocked">ຊິມ​ກາດ​ຂອງ​ທ່ານ​ໄດ້​ຖືກ​ປົດ​ບ​ລັອກ​ແລ້ວ. ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ກຳ​ລັງ​ຖືກ​ປົດ​ລັອກ\u2026</string>
+</resources>

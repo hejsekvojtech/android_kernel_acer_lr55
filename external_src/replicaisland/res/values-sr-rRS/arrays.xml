@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- This came right out of frameworks/base/include/ui/KeycodeLabels.h -->
+ 	<string-array name="keycode_labels">
+    <item>MEKO DESNO</item>
+    <item>MEKO LEVO</item>
+    <item>POČETAK</item>
+    <item>NAZAD</item>
+    <item>POZIV</item>
+    <item>KRAJ POZIVA</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>ZVEZDICA</item>
+    <item>FUNTA</item>
+    <item>DPAD GORE</item>
+    <item>DPAD DOLE</item>
+    <item>DPAD LEVO</item>
+    <item>DPAD DESNO</item>
+    <item>DPAD SREDINA</item>
+    <item>POVEĆAVANJE JAČINE ZVUKA</item>
+    <item>SMANJENJE JAČINE ZVUKA</item>
+    <item>NAPAJANJE</item>
+    <item>KAMERA</item>
+    <item>OBRIŠI</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>ZAREZ</item>
+    <item>TAČKA</item>
+    <item>ALT LEVO</item>
+    <item>ALT DESNO</item>
+    <item>SHIFT LEVO</item>
+    <item>SHIFT DESNO</item>
+    <item>TAB</item>
+    <item>RAZMAK</item>
+    <item>SYM</item>
+    <item>PREGLEDAČ</item>
+    <item>KOVERTA</item>
+    <item>ENTER</item>
+    <item>DEL</item>
+    <item>KRATKOUZLAZNI</item>
+    <item>MINUS</item>
+    <item>JEDNAKO</item>
+    <item>LEVA ZAGRADA</item>
+    <item>DESNA ZAGRADA</item>
+    <item>OBRNUTA KOSA CRTA</item>
+    <item>TAČKA I ZAREZ</item>
+    <item>APOSTROF</item>
+    <item>KOSA CRTA</item>
+    <item>AT</item>
+    <item>NUM</item>
+    <item>KUKA ZA SLUŠALICE</item>
+    <item>FOKUS</item>
+    <item>PLUS</item>
+    <item>MENI</item>
+    <item>OBAVEŠTENJE</item>
+    <item>PRETRAŽIVANJE</item>
+  </string-array>
+</resources>

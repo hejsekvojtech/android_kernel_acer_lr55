@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+<string name="Rokudou_3_9_1_1"> ສະບາຍດີ, ແອນດຼອຍ.  ຊື່ຂ້ອຍແມ່ນ ໂຣກຸໂດ. </string>
+
+<string name="Rokudou_3_9_1_2">
+Ever get the feeling that you are on the wrong team, Android?  Ever wonder if maybe Kabochanomizu isn’t exactly the man he portrays himself to be?
+</string>
+
+<string name="Rokudou_3_9_1_3"> ເຈົ້າເປັນເຄື່ອງຈັກທີ່ມະຫັດສະຈັນ.  ຄວາມສາມາດຂອງເຈົ້າບໍ່ມີປະໂຫຍດ ເມື່ອທຽບກັບໂກບາຊະ  ເຈົ້າຄວນຈະຮ່ວມທີມຂອງຂ້ອຍ. </string>
+
+<string name="Rokudou_3_9_1_4">
+I can see that you are hesitant.  Not surprising; I am sure Kabocha did his best to convince you that he’s a kind-hearted scientist, acting for the greater good of the world.  Make no mistake, Android.  Kabocha is a lunatic--he must not gain access to The Source.
+</string>
+
+<string name="Rokudou_3_9_1_5"> ຮ່ວມທີມຂອງຂ້ອຍ, ແອນດຼອຍ.  ຊ່ວຍພວກເຮົາຫາແຫຼ່ງທີ່ມາ ແລະ ປ່ຽນໂລກ.  ໃຊ້ເວລາເພື່ອຄິດອີກເທື່ອໜຶງ.  ຂ້ອຍເປັນຄົນມີຄວາມອົດທົນ. </string>
+
+
+<string name="Rokudou_4_1_1_1"> ຢ່າສ້າງເປັນຫາໃຫ້ໂຕເອງຍ້ອນໄຄ, ແອນດອຍ.  ລາວເປັນເຈົ້າໜ້າທີ່ທີ່ດີແຕ່ລາວເຮັດໃຫ້ຄວາມສຳເລັດຂອງລາວໄປຫາຫົວ.  ໃນການວິເຄາະຄັ້ງສຸດທ້າຍ, ຄວາມຍິ່ງເປັນຈຸດອ່ອນທີ່ໃຫຍ່ທີ່ສຸດຂອງລາວ.  ເຈົ້າ, ໃນທາງກົງກັນຂ້າມ, ສະແດງມີໄຫວພິບແລະມີຄວາມໝັນຄົງ.  ສະແດງໄດ້ດີ! </string>
+
+<string name="Rokudou_4_1_1_2">
+The Source has a way of affecting people.  Other teams I sent to this island in the past have vanished without a trace.  The few that made it back returned with fatal health problems.  That’s why an inorganic like you is so perfect for this job.  Make no mistake, The Source is a natural occurrence--nature’s next logical step.  I theorize that it may actually be a tiny piece of a larger whole, a body that created the entire universe!  But there will be plenty of time for academics once we have obtained The Source; for now we must concentrate on finding it.
+</string>
+
+<string name="Rokudou_4_1_1_3"> ເຈົ້າໄດ້ພິຈາລະນາສິ່ງທີ່ຂ້ອຍສະເໜີໃຫ້ບໍ່, ແອນດອຍ?  ມັນບໍ່ເໜັງຕີງ.  ເຂົ້າຮ່ວມທີມຂ້ອຍ; ຊ່ວຍຂ້ອຍຫາແຫຼ່ງທີ່ມາ ແລະຊ່ວຍໂລກຈາກຄົນຊົ່ວຄືຄາໂບຊະ. </string>
+
+<string name="Rokudou_4_4_1_1"> ແອນດຼອຍ.  ເວລາສຳຫຼັບການຢອກໃຍໝົດແລ້ວ.  ຄາໂບຊະມີແຫຼ່ງທີ່ມາ, ແລະ ມັນກໍນ່າຈະບໍ່ດົນທີ່ລາວຈະສາມາດຮຽນການໃຊເພະລັງ.  ເຮົາຕ້ອງເຄື່ອນໄຫວຢ່າງໄວ, ຖ້າວ່າເຮົາຢາກຢຸດລາວ.  ເຈົ້າເປັນຄວາມຫວັງດຽວຂອງພວກເຮົາ. </string>
+
+<string name="Rokudou_4_7_1_1">
+My sensors indicate a large disturbance field not far from here.  That must be the location of Kabocha’s secret lab.  He’s surely shielded it, which means the readings I am picking up are actually a tiny fraction of the power he is generating.  It must be The Source!  We must move quickly if we are to stop him and his insane scheme.
+</string>
+
+<string name="Rokudou_4_7_1_2"> ເດີນຕໍ່ໄປ, ແອນດຼອຍ.  ຊະຕາກຳຂອງໂລກຫຍັບໃກ້ເຂົ້າມາ. </string>
+
+<string name="Rokudou_final_boss_1_1">
+Excellent work, Android.  You have penetrated Kabocha’s secret laboratory.  The Source is within our grasp!
+</string>
+
+<string name="Rokudou_final_boss_1_2"> ໄວໆ ດຽວນີ້, ເອົາຄາໂບຊະອອກມາຈາກຄວາມຂັດສົນ.  ລາວອາດຈະແກ່ ແລະ ອ່ອນແອ, ແຕ່ຕາບໃດທີ່ລາວຍັງມີຊີວິດ ແຫຼ່ງທີ່ມາຍ່ອມເປັຮອັນຕະລາຍ. </string>
+
+<string name="Rokudou_final_boss_1_3"> ແອນດຼອຍ, ຢຸດສີ້ນເປືອງເວລາ!  ທຳລາຍ ຄະໂບຊະ ແລະ ພວກເຮົາຈະຄອງໂລກ! </string>
+</resources>

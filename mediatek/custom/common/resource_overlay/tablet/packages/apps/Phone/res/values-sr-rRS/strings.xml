@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <string name="no_sip_account_found">Na ovom uređaju nema naloga za internet pozivanje.  Želite li odmah da ga dodate?</string>
+    <string name="ota_progress">Sačekajte da se uređaj programira.</string>
+    <string name="ota_skip_activation_dialog_message">Ako preskočite aktivaciju, ne možete da upućujete pozive ili da se povezujete sa mrežama za mobilni prenos podataka (iako možete da se povežete sa Wi-Fi mrežama). Dok ne aktivirate uređaj, svaki put kada ga uključite bićete upitani da ga aktivirate.</string>
+    <string name="ota_successful">Uređaj je sada aktiviran.  Može biti potrebno do 15 minuta da se usluga pokrene.</string>
+    <string name="ota_title_activate">Aktivirajte uređaj</string>
+    <string name="ota_title_activate_success">Uređaj se aktivirao!</string>
+    <string name="ota_touch_activate">Potrebno je da uputite poseban poziv da biste aktivirali uslugu vašeg uređaja. \n\nNakon što pritisnete dugme \u201CAktivirano\u201D, slušajte data uputstva da biste aktivirali uređaj.</string>
+    <string name="ota_unsuccessful">Uređaj se nije aktivirao. \nMožda je potrebno da pronađete područje sa boljom pokrivenošću signalom (blizu prozora ili napolju). \n\nPokušajte ponovo ili pozovite korisničku podršku za više opcija.</string>
+    <string name="puk_unlocked">Vaša SIM kartica je deblokirana. Uređaj se otključava\u2026</string>
+</resources>

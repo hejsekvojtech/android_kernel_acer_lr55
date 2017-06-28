@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Островот на репликите</string>
+<string name="change_level">Промени ниво</string>
+<string name="test_animation">Тестирај анимација</string>
+<string name="test_diary">Тестирај дневник</string>
+<string name="unlock_levels">Отклучи ги сите нивоа</string>
+<string name="unlock_next_level">Отклучи го следното ниво</string>
+<string name="method_tracing">Вклучи/исклучи начин на следење</string>
+
+<string name="game_over">ИГРАТА ЗАВРШИ</string>
+<string name="thanks_for_playing">ВИ БЛАГОДАРИМЕ ШТО ИГРАВТЕ!</string>
+<string name="please_wait">ВЕ МОЛИМЕ ПОЧЕКАЈТЕ</string>
+
+
+
+<string name="preference_save_game">Податоци за играта</string>
+<string name="preference_erase_save_game">Избриши зачувана игра</string>
+<string name="preference_erase_save_game_dialog">Дали навистина да се избрише зачуваната игра?  Целиот ваш напредок ќе се изгуби!</string>
+<string name="preference_erase_save_game_dialog_title">Причекајте малку</string>
+<string name="preference_erase_save_game_dialog_ok">Избриши зачувано</string>
+<string name="preference_erase_save_game_dialog_cancel">Откажи</string>
+
+
+<string name="preference_game_settings">Поставки за играта</string>
+<string name="preference_enable_sound">Овозможи звук</string>
+<string name="preference_enable_sound_summary">Оневозможувањето на звукот може да ги подобри перформансите на некои уреди.</string>
+
+<string name="preference_safe_mode">Безбеден режим</string>
+<string name="preference_safe_mode_summary">Овозможува безбедносни трикови за расипани уреди (Cliq, итн.), но предизвикува одредени визуелни артефакти. Обидете се со ова доколку имате проблеми.</string>
+
+<string name="preference_configure_controls">Конфигурирај контроли</string>
+<string name="preference_enable_click_attack">Клик за напад</string>
+<string name="preference_enable_click_attack_summary">Кликнете на топчето за навигација или на централното копче на подлогата за навигација за да нападнете.</string>
+<string name="preference_enable_screen_controls">Контроли на екранот</string>
+<string name="preference_enable_screen_controls_summary">Ја прикажува подлогата за движење и копчињата на екранот.  Препорачано за уреди без подлога за навигација или топче за навигација. Бара повеќекратен допир.</string>
+
+<string name="preference_enable_tilt_controls">Контроли за навалување</string>
+<string name="preference_enable_tilt_controls_summary">ЕКСПЕРИМЕНТАЛНО!  Навалете го телефонот лево или десно за да го движите Андроидот.  Погодно за уреди без топче за навигација или подлога за навигација.</string>
+
+<string name="preference_movement_sensitivity">Чувствителност на движење</string>
+<string name="preference_movement_sensitivity_summary">Ја прилагодува чувствителноста на топчето за навигација, подлогата за навигација или оптичкиот сензор.</string>
+<string name="preference_movement_min">Бавно</string>
+<string name="preference_movement_max">Забрзано</string>
+
+<string name="preference_tilt_sensitivity">Чувствителност за навалување</string>
+<string name="preference_tilt_sensitivity_summary">Ја прилагодува чувствителноста на контролите за навалување.</string>
+<string name="preference_tilt_min">Бавно</string>
+<string name="preference_tilt_max">Забрзано</string>
+
+<string name="preference_key_config">Конфигурирај тастатура</string>
+<string name="preference_key_config_summary">Приспособи копчиња за телефони со физички тастатури.</string>
+<string name="preference_key_config_dialog_title">Конфигурирај тастатура</string>
+<string name="preference_key_config_dialog_ok">Зачувај</string>
+<string name="preference_key_config_dialog_cancel">Откажи</string>
+<string name="preference_key_config_left">Лево</string>
+<string name="preference_key_config_right">Десно</string>
+<string name="preference_key_config_jump">Скок</string>
+<string name="preference_key_config_attack">Напад</string>
+
+
+<string name="preference_enable_statistics">Испрати статистика за играта</string>
+<string name="preference_enable_statistics_summary">Испраќа анонимна статистика за играта до серверот за да ни помогне да ја направиме играта позабавна.</string>
+
+
+<string name="preference_about">За</string>
+<string name="preference_about_title">За Островот на репликите</string>
+<string name="preference_about_summary">Играта Островот на репликите е создадена од Крис Пруе и Генки Мајн и продуцирана од Том Мос.</string>
+<string name="preference_visit_site">Одете на интернет-страницата на Островот на репликите</string>
+<string name="preference_thanks_title">Посебна благодарност</string>
+<string name="preference_thanks_summary">Посебна благодарност до Еидо Иноуе, Кејси Ричардсон, Џејсон Чен, Тим Менсфилд и тимот на Android за нивната поддршка за овој проект.</string>
+<string name="preference_licence_title">Лиценца</string>
+<string name="preference_licence_summary">Делови од оваа игра претставуваат измени засновани на труд создаден и споделен од Google и користен според условите опишани во Лиценцата за доделување на Creative Commons 3.0.</string>
+<string name="preference_misc">Повеќе информации</string>
+<string name="preference_enable_debug">Евиденција за отстранување грешки</string>
+<string name="preference_enable_debug_summary">Извоз на разни евиденции во logcat.  Оваа опција ќе ја успори играта.</string>
+
+<string name="game_results_title">РЕЗУЛТАТИ ОД ИГРАТА</string>
+<string name="game_results_pearls_collected">СОБРАНИ БИСЕРИ:</string>
+<string name="game_results_robots_destroyed">УНИШТЕНИ РОБОТИ:</string>
+<string name="game_results_total_play_time">ВКУПНО ВРЕМЕ НА ИГРАЊЕ:</string>
+<string name="game_results_ending">ПОСТИГНАТ КРАЈ:</string>
+<string name="game_results_unlocks_message">Сега може да пристапите до Линеарниот режим и Изборот на нивоа од менито Дополнително!</string>
+<string name="game_results_kabocha_ending">ЛОШ КРАЈ #1 - Кабоча победува</string>
+<string name="game_results_rokudou_ending">ЛОШ КРАЈ #2 - Рокуду победува</string>
+<string name="game_results_wanda_ending">ДОБАР КРАЈ - Светот е спасен!</string>
+<string name="game_results_ok_button">Играта заврши!</string>
+
+<string name="saved_game_erased_notification">Зачуваната игра е избришана</string>
+
+<string name="quit_game_dialog_title">Исклучи игра?</string>
+<string name="quit_game_dialog_ok">Исклучи</string>
+<string name="quit_game_dialog_cancel">Откажи</string>
+<string name="quit_game_dialog_message">Врати се на главното мени?</string>
+
+<string name="new_game_dialog_title">Почни нова игра?</string>
+<string name="new_game_dialog_ok">Почни нова игра</string>
+<string name="new_game_dialog_cancel">Откажи</string>
+<string name="new_game_dialog_message">Почнувањето нова игра во овој режим ќе ја избрише тековната започната игра.  Дали сте сигурни дека сакате да почнете нова игра?</string>
+
+<string name="extras_locked_dialog_title">Дополнителното е заклучено!</string>
+<string name="extras_locked_dialog_ok">Дојди до него!</string>
+<string name="extras_locked_dialog_message">Оваа дополнителна функција сѐ уште е заклучена.  Победете ја играта еднаш за да ја отклучите!</string>
+
+
+<string name="nav_type">Топче за навигација</string>
+
+<string name="whats_new_dialog_title">Островот на репликите</string>
+<string name="whats_new_dialog_ok">Само напред!</string>
+<string name="whats_new_dialog_message">Thanks for downloading Replica Island.  Over 1.5 million people have played Replica Island!\n\n
+<b>New in this version:</b>\n
+- Unlockable extra modes: Linear Story Mode and Level Select.\n
+- On-screen controls for devices with no buttons.\n
+- Difficulty settings for new games. \n
+- Play statistics shown when you finish the game.\n
+- Lots of bugs fixed!\n
+\n
+\n
+This is an open source project.  If you are interested in how it works, or would like to use it to make your
+own games, check out the source at our web site, replicaisland.net.
+\n
+\n
+Also note that this game sends anonymous play statistics back to a server.  If you’d rather not
+allow that, you can turn it off in the options screen.</string>
+
+<string name="control_setup_dialog_title">Поставување контроли</string>
+<string name="control_setup_dialog_ok">Оставете како што е</string>
+<string name="control_setup_dialog_change">Промена на поставките за контроли</string>
+<string name="control_setup_dialog_message"> Врз основа на хардверот на вашиот уред, следнава шема на контроли беше избрана автоматски: <br/> <br/> <мало>%1s</мало> <br/> <br/>Островот на репликите поддржува многубројни различни конфигурации на контролите.  Опциите за контролите може да се сменат во  секое време со користење на копчето Конфигурирај контроли во Опции. <br/> <br/> Дали сте задоволни со избраниот систем на контроли погоре, или би сакале рачно да ги поставите поставките за контроли сега?</string>
+<string name="control_setup_dialog_trackball"><b>Топче за навигација / Подлога на допир</b> - Чувствителноста може да се прилагоди во Опции.</string>
+<string name="control_setup_dialog_dpad"><b>Тастатура / Подлога</b> - Мапирањето на копчињата може да се промени во Опции.</string>
+<string name="control_setup_dialog_screen"><b>Подлога на екранот</b></string>
+<string name="control_setup_dialog_tilt"><b>Навалување</b> - Чувствителноста може да се прилагоди во Опции.</string> 
+
+<string name="onscreen_tilt_dialog_title">Нова шема на контроли!</string>
+<string name="onscreen_tilt_dialog_ok">Подлога на екранот</string>
+<string name="onscreen_tilt_dialog_cancel">Продолжете со навалување</string>
+<string name="onscreen_tilt_dialog_message">Оваа верзија на Островот на репликите има дополнителна опција за  <b>контроли на екранот</b> за уредите со повеќекратен допир.  Вашиот уред го поддржува овој нов режим, но опциите во моментот ви се поставени на контроли со <b>навалување</b>.  Дали сакате да ги пробате новите контроли на екранот или ќе продолжите со навалување?  \n<мало>Оваа поставка може да ја промените во секое време со избирање Конфигурирај контроли во Опции.</мало> </string>
+
+<string name="whats_new_ticker">Ново во оваа верзија: Контроли на екранот, поддршка за префрлување на апликацијата на SD-картичка, дополнителни режими кои може да се отклучат, статистика за играта по победата, поправка на многу мали (и не толку мали) грешки.</string>
+
+<string name="baby_description">Никаков предизвик.</string>
+<string name="kids_description">Удобно доживување до самиот крај.</string>
+<string name="adults_description">За вистинските достигнувања треба да се помачите.</string>
+
+
+
+<string name="memory_playback_start">ЗАПОЧНИ РЕПРОДУКЦИЈА НА МЕМОРИЈА</string>
+<string name="memory_playback_complete">РЕПРОДУКЦИЈАТА НА МЕМОРИЈАТА Е ЗАВРШЕНА</string>
+<string name="diary_found">ПРОНАЈДЕН Е СТАР ДНЕВНИК</string>
+
+
+
+<string name="Wanda">Ванда</string>
+<string name="Kyle">Кајл</string>
+<string name="Kabocha">Д-р Кабочаномизу</string>
+<string name="Rokudou">Г-дин Рокуду</string>
+<string name="Android">Android</string>
+
+
+<string name="level_0_1_sewer">Меморија #000</string>
+<string name="level_0_2_lab">Меморија #001</string>
+<string name="level_0_3_lab">Меморија #002</string>
+
+<string name="level_1_1_island">Меморија #003</string>
+<string name="level_1_2_island">Меморија #004</string>
+<string name="level_1_3_island">Меморија #005</string>
+<string name="level_1_4_island">Меморија #006</string>
+<string name="level_1_5_island">Меморија #007</string>
+<string name="level_1_6_island">Меморија #008</string>
+<string name="level_1_7_island">Меморија #009</string>
+<string name="level_1_8_island">Меморија #010</string>
+<string name="level_1_9_island">Меморија #011</string>
+
+<string name="level_2_1_grass">Меморија #012</string>
+<string name="level_2_2_grass">Меморија #013</string>
+<string name="level_2_3_grass">Меморија #014</string>
+<string name="level_2_4_grass">Меморија #015</string>
+<string name="level_2_5_grass">Меморија #016</string>
+<string name="level_2_6_grass">Меморија #017</string>
+<string name="level_2_7_grass">Меморија #018</string>
+<string name="level_2_8_grass">Меморија #019</string>
+<string name="level_2_9_grass">Меморија #020</string>
+
+<string name="level_3_1_sewer">Меморија #021</string>
+<string name="level_3_2_sewer">Меморија #022</string>
+<string name="level_3_3_sewer">Меморија #023</string>
+<string name="level_3_4_sewer">Меморија #024</string>
+<string name="level_0_1_sewer_kyle">Меморија #024,3</string>
+<string name="level_0_1_sewer_wanda">Меморија #024,7</string>
+<string name="level_3_5_sewer">Меморија #025</string> 
+<string name="level_3_6_sewer">Меморија #026</string>
+<string name="level_3_7_sewer">Меморија #027</string>
+<string name="level_3_8_sewer">Меморија #028</string>
+<string name="level_3_9_sewer">Меморија #029</string>
+<string name="level_3_10_sewer">Меморија #030</string>
+<string name="level_3_11_sewer">Меморија #030,5</string> 
+
+<string name="level_4_1_underground">Меморија #031</string>
+<string name="level_4_2_underground">Меморија #032</string>
+<string name="level_4_3_underground">Меморија #033</string>
+<string name="level_4_4_underground">Меморија #034</string>
+<string name="level_4_5_underground">Меморија #035</string>
+<string name="level_4_6_underground">Меморија #036</string>
+<string name="level_4_7_underground">Меморија #037</string>
+<string name="level_4_8_underground">Меморија #038</string>
+<string name="level_4_9_underground">Меморија #039</string>
+
+<string name="level_final_boss_lab">Меморија #040</string>
+
+<string name="level_puzzle_test">Тест со сложувалка</string>
+<string name="level_object_test">Тест со објекти</string>
+<string name="level_performance_test">Тест на перформанси</string>
+<string name="level_performance_test2">Тест на перформанси 2</string>
+<string name="level_performance_test3">Тест на перформанси 3</string>
+<string name="level_performance_test4">Google IO тест на перформанси</string>
+<string name="level_npc_motion_test">Тест за движења на NPC</string>
+
+
+
+
+<string name="level_0_1_time">+ 07:12:03</string>
+<string name="level_0_2_time">+ 00:00:00</string>
+<string name="level_0_3_time">+ 00:06:26</string>
+
+<string name="level_1_1_time">+ 00:34:10</string>
+<string name="level_1_2_time">+ 00:44:46</string>
+<string name="level_1_3_time">+ 00:52:16</string>
+<string name="level_1_4_time">+ 00:59:01</string>
+<string name="level_1_5_time">+ 01:07:24</string>
+<string name="level_1_6_time">+ 01:23:38</string>
+<string name="level_1_7_time">+ 01:38:04</string>
+<string name="level_1_8_time">+ 01:42:00</string>
+<string name="level_1_9_time">+ 01:56:44</string>
+
+<string name="level_2_1_time">+ 02:25:18</string>
+<string name="level_2_2_time">+ 02:37:20</string>
+<string name="level_2_3_time">+ 02:40:13</string>
+<string name="level_2_4_time">+ 02:51:09</string>
+<string name="level_2_5_time">+ 03:01:55</string>
+<string name="level_2_6_time">+ 03:16:28</string>
+<string name="level_2_7_time">+ 03:33:12</string>
+<string name="level_2_8_time">+ 03:46:07</string>
+<string name="level_2_9_time">+ 03:54:29</string>
+
+<string name="level_3_1_time">+ 04:07:10</string>
+<string name="level_3_2_time">+ 04:18:42</string>
+<string name="level_3_3_time">+ 04:45:15</string>
+<string name="level_3_4_time">+ 04:59:06</string>
+<string name="level_3_5_time">+ 07:19:59</string>
+<string name="level_3_6_time">+ 07:36:17</string>
+<string name="level_3_7_time">+ 07:51:24</string>
+<string name="level_3_8_time">+ 08:16:55</string>
+<string name="level_3_9_time">+ 08:35:12</string>
+<string name="level_3_10_time">+ 08:50:36</string>
+<string name="level_3_11_time">+ 08:55:54</string>
+
+<string name="level_4_1_time">+ 09:10:01</string>
+<string name="level_4_2_time">+ 09:42:40</string>
+<string name="level_4_3_time">+ 09:58:11</string>
+<string name="level_4_4_time">+ 10:27:36</string>
+<string name="level_4_5_time">+ 10:52:10</string>
+<string name="level_4_6_time">+ 11:12:35</string>
+<string name="level_4_7_time">+ 11:39:04</string>
+<string name="level_4_8_time">+ 11:57:22</string>
+<string name="level_4_9_time">+ 12:13:40</string>
+<string name="level_final_boss_time">+ 12:45:12</string>
+<string name="level_test_time">(тестирање нивоа)</string>
+
+
+
+<string name="Diary1">
+Log Entry - Thursday - Sunny\n
+I have arrived!  I borrowed a dinghy from the freighter and rowed to shore as the ship passed by the island early this morning.  The captain has promised to return for me in two weeks; more than enough time to complete my mission.  
+\n
+\n
+I find myself standing in the middle of a vast beach, with sand dunes stretching great distances down the coastline and the green of tropical forest visible near the horizon.  An uninformed man would think this place a paradise.  I know better.  Still, I cannot help but marvel at the island’s wholly unnatural beauty.
+</string>
+
+<string name="Diary2"> Внес во дневник - недела - сончево\n Пред да го напуштам копното се сретнав со г-дин Рокуду за мојата мисија.  Тој е голем човек - човек што всушност може да издејствува промена, а не само да зборува за неа.  Бев среќен што тој ги препозна моите уникатни вештини.  Не сум ниту преживувач, ниту сум по природата. Не можам ни да се сетам кога последен пат сум бил на кампување.  Беше мошне лукаво од г-дин Рокуду да ме одбере мене како вистински човек за посета на овој чуден, напуштен остров.  Нема да го изневерам.  </string>
+
+<string name="Diary3">
+Log Entry - ??? - Dark\n
+Analysis of slime-like creature.  Resembles an arthropod except instead of protective armor the beast seems to be covered in a soft, sticky substance resembling tar.  Suspect genetic similarities to Holothuroidea, but the island’s influence has twisted the result into a dangerous menace.  I ate a piece of the specimen and gagged.\n
+\n
+I never should have come here.  Rokudou tricked me into this, and now I cannot even find my way back to the surface.  The freighter has surely long since come and gone; my sense of time is quickly losing its clarity but I am sure that more than two weeks have passed since I arrived in this hellish place.  I never should have come here.\n
+
+</string>
+
+<string name="Diary4"> Внес во дневникот - понеделник - облачно\n Денес сретнав група од тројца авантуристи.  Мислев дека сум сам на островот и бев толку изненаден што слушнав човечки гласови (па уште и со бруклински акцент) пред мојот шатор што соборив еден потпорен столб од бамбус и безмалку не го срушив покривот.  Групата е независна и го бара Изворот, исто како мене.  Беа фини, но почувствував мала конкурентска тензија во воздухот.  Тука биле веќе еден месец и едвај навлегле во шумата зад плажата.  Мило ми е што ги сретнав, но тие не се никаква закана за мојата мисија.  Фини луѓе се, но моите вештини се многу подобри.\n  </string>
+
+<string name="Diary5">
+Log Entry - Saturday - Rain\n
+Today marks three consecutive days of rain.  Last week was clear--the seas were calm and my carefully constructed shelter proved unnecessary.  I am sitting in a small alcove at the base of a hollow tree as the sky dumps golf ball-sized raindrops into the forest around me.  The beach is long behind me now and the sound of the ocean is just a memory.\n
+\n
+This is a weird place.  The oddities increase as I move closer to the center.  Since entering the forest I have seen a few things I cannot explain.  No matter, my mission is clear and success is guaranteed.  I will sleep here tonight and then venture further towards the island’s center tomorrow.\n
+
+</string>
+
+<string name="Diary6">
+Log Entry - ??? - Damp\n
+What in the world is a sewer system doing under a tropical island anyway?  The island has grown it to resemble the architecture of some old European city, but for what purpose?  What little tidbit of inspiration caused this vast underground structure to manifest?  Perhaps a photograph, or a child’s picture book.  The island itself is too far from any country with this sort of architecture for the influence to be direct.\n
+\n
+When I get out of here I am going to find Rokudou and educate him in the error of his ways.  The Source is getting closer, but I am not sure I want to find it anymore.\n
+
+</string>
+
+<string name="Diary7">
+There is no rain underground!\n
+\n
+Rain, rain, go away, come again some other day.\n
+\n
+All the king’s horses and all the king’s men couldn’t put Humpty together again.\n
+
+</string>
+
+<string name="Diary8"> Внес во дневникот - среда - облачно\n Можеби пронајдов пат до шумата.  Ливадите се протегаат нанапред кон површина која наликува на мала лединка, но мислам дека зад нив границата со шумата се проретчува.  Ако моите пресметки се точни, оваа страна на островот треба да е под сенка поголемиот дел од годината, така што очекувам дека речиси непробојната шумска вегетација ќе отстапи доволно за да дозволи премин.\n \n Дружината авантуристи што ја сретнав пред неколку дена била овде еден месец и сѐ уште не го сфатила ова.  Мојот интелект е навистина супериорен--можам да сфатам зошто г-дин Рокуду ме избра мене за оваа мисија.  Штом го најдам Изворот и му покажам како да го користи, тој сигурно ќе ме направи негова десна рака, позиција од која ќе имам неверојатно влијание.  Само што помислувам на тоа, се замајувам.  Но не смеам да се преценувам; шумата се наѕира.\n  </string>
+
+<string name="Diary9">
+Skin skin skin skin skin skin skin skin skin skin skin.\n
+\n
+There’s not enough skin on those pirates!\n
+</string>
+
+<string name="Diary10"> Внес во дневникот - понеделник (?) - Дожд\n Мојот напредок е попречен од лудите суштества кои живеат на овој остров.  Некои од нив се толку нормални што можеби мигрирале овде по формирањето на островот.  Но, јасно е дека останатите се производи на Изворот и врз нив нема никаква контрола. Немаат ниту најмала сличност со децата на Мајката Природа.  Овој остров е факсимил, реплика на парченца од светот, изопачени и создадени од ништо, распрснати насекаде.  Тој претставува моќ во најчиста форма, која непречено се извива во морето.\n \n Но под будно водство, таа моќ може да се употреби за многу добри нешта!  Со Изворот во наши раце, човештвото би можело да го обликува светот по своја волја. Тоа би било вистински крај на војната и сиромаштијата.  Рокуду ја сака таа моќ--јас ја сакам таа моќ--за светот да се ослободи од владите и другите паразити што само сакаат да обесправуваат и да уништуваат.  Славата ми е речиси на дофат.\n  </string>
+
+<string name="Diary11">
+Log Entry - I’ve lost track of the date - Heavy Rain\n
+\n
+The adventurers I met are dead.  I found them hanging from the trees near a rock formation in the forest.  The discovery was startling and sad; though we were both competing for the same goal I felt a certain camaraderie with them.  They were, of course, the only other humans on the island.\n
+\n
+Though tragic, I cannot let their unfortunate end distract me from my goal.  The rock formation near the bodies is an important find; it appears to be the mouth of some sort of cave.  However, most exciting is that the rock itself looks as if it has been cut by man; I dare say that it resembles an entrance to a subway station or bunker.\n
+\n
+I will venture into the forest once more before entering the cave.  At the adventurers’ base camp I spied batteries and other useful electronic equipment, which I can surely modify.  Once I have procured those items I shall return and make my descent.\n
+
+</string>
+
+<string name="Diary12">
+Log Entry - Unknown - Underground\n
+\n
+My head hurts.  Maybe it is the fumes down here; I feel like my head is filling up with pressure and soon it will burst.  When the pain gets bad I sit down and focus on counting primes, an old childhood relaxation habit that has resurfaced here under the ground.\n
+\n
+When I find The Source, I am going to use it to cure myself of whatever it is that has taken hold of me.  If Rokudou complains then maybe I’ll just eject him from the planet.  After all, he’s not the one down here in this false sewer, with scraped knees and a pounding headache.  He’s not the one who has to go days at a time without food because there isn’t any vegetation down here.  I’m the one doing the work, so I’m the one who should get the reward.  The Source will be mine and mine alone.\n
+\n
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29\n
+
+</string>
+
+<string name="Diary13">
+He lied he lied he lied he lied.  Rokudou is a liar.  He seeks only to control.  He says he wants The Source to save the world, to rid it of the fat cats who play the planet like a marionette.  He he he HE is the fat cat, the puppeteer.  He shall not have The Source.  It shall be mine.  Mine mine mine mine mine. 73, 79, 83, 89, 97, 101, 103, 107, 109, 113.\n
+\n
+The Source is here.  It is down here, in the dark.  I can feel its heat, a warmth like the sun against my cheek.  But no, I mustn’t go to it, not not not not yet.  If I find it, Rokudou will take it from me and it will be check check check check mate.  No, Kabochanomizu is cautious.  Kabochanomizu is careful.  I shall retreat to the surface.  I know enough now to build things.  I will return only when I can guarantee my success.  Rokudou will grovel before me and the world will know Kabochanomizu as its savior.\n
+</string>
+
+<string name="Diary14">
+Log Entry - Saturday - Very Cloudy\n
+\n
+I have to admit that I was surprised when Rokudou selected me to find The Source.  True, I have studied the island from afar as much as any other researcher in the world, but slacks and a lab coat are hardly appropriate for rugged terrain.  When Rokudou offered me the job I was initially suspicious, but now I see that I am the only man with any chance of success.  The island has grown unhindered for a hundred years, and its twisted derivations of reality are the type of thing that could drive a lesser man insane.\n
+\n
+Still, I can’t say that I completely trust Rokudou.  He’s a smart man, but I am also sure that he selected me because he thought me easy to control.  I get the feeling that he’s watching me over my shoulder.  Of course, the island is free of human habitation save me and the three adventurers I met a few days ago, so the presence of a spy is unlikely.  And yet, I can’t shake this feeling of being watched.\n
+
+</string>
+
+<string name="Diary15">
+Log Entry - The days have run together - Sunny\n
+\n
+There is something I must confide, even if only to this scrap of notebook paper.\n
+\n
+I killed those adventurers.  I killed them in their sleep and then hung them from the trees as if to convince myself that the island had somehow done away with them.  It was grisly business, but necessary.  I needed their supplies, especially the batteries and flashlights they brought.  More importantly, against all odds they discovered the entrance to the cave.  They must have blundered across it while awkwardly stumbling through the forest--their brains are too small to have calculated its location.  The Source is too important to leave to such simpletons, and I couldn’t risk the possibility, no matter how remote, that they might find it first.\n
+\n
+Am I a monster?  I do not think so.  I am Dr. Kabochanomizu, widely respected scientist and the world’s expert on the inverted Atlantis that is this island.  My actions are logical and justified--I am no monster.\n
+\n
+If I am honest with myself, there is another reason the adventurers had to die.  I wanted to do it.  And I enjoyed it.
+</string>
+
+
+
+<string name="KyleDeadNote">It’s Kyle.  He’s not moving.</string>
+
+<string name="cd_Wanda">Ванда</string>
+<string name="cd_blah">Бла бла бла бла бла</string>
+<string name="s100p">100%</string>
+<string name="zero">0</string>
+<string name="s3_21_34">3:21:34</string>
+<string name="k_A">A</string>
+<string name="level_1_1">Ниво 1-1</string>
+<string name="s0_02_031">+ 0:02:031</string>
+<string name="min">Мин.</string>
+<string name="max">Maкс.</string>
+</resources>

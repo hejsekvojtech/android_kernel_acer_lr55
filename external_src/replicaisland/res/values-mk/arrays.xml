@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- This came right out of frameworks/base/include/ui/KeycodeLabels.h -->
+ 	<string-array name="keycode_labels">
+    <item>МАЛКУ НАЛЕВО</item>
+    <item>МАЛКУ НАДЕСНО</item>
+    <item>ПОЧЕТЕН ЕКРАН</item>
+    <item>НАЗАД</item>
+    <item>ПОВИКАЈ</item>
+    <item>ENDCALL</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>ЅВЕЗДА</item>
+    <item>ТАРАБА</item>
+    <item>DPAD ГОРЕ</item>
+    <item>DPAD ДОЛУ</item>
+    <item>DPAD ЛЕВО</item>
+    <item>DPAD ДЕСНО</item>
+    <item>DPAD ЦЕНТРАЛНО</item>
+    <item>ЗГОЛЕМУВАЊЕ НА ЈАЧИНАТА НА ЗВУКОТ</item>
+    <item>НАМАЛУВАЊЕ НА ЈАЧИНАТА НА ЗВУКОТ</item>
+    <item>НАПОЈУВАЊЕ</item>
+    <item>КАМЕРА</item>
+    <item>ИСЧИСТИ</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>ЗАПИРКА</item>
+    <item>ТОЧКА</item>
+    <item>ALT ЛЕВО</item>
+    <item>ALT ДЕСНО</item>
+    <item>SHIFT ЛЕВО</item>
+    <item>SHIFT ДЕСНО</item>
+    <item>TAB</item>
+    <item>ПРАЗНО МЕСТО</item>
+    <item>SYM</item>
+    <item>ИСТРАЖУВАЧ</item>
+    <item>ПЛИК</item>
+    <item>ENTER</item>
+    <item>DEL</item>
+    <item>АКЦЕНТ</item>
+    <item>МИНУС</item>
+    <item>Е ЕДНАКВО НА</item>
+    <item>ЛЕВА ЗАГРАДА</item>
+    <item>ДЕСНА ЗАГРАДА</item>
+    <item>ЛЕВА КОСА ЦРТА</item>
+    <item>ТОЧКА ЗАПИРКА</item>
+    <item>АПОСТРОФ</item>
+    <item>КОСА ЦРТА</item>
+    <item>ВО</item>
+    <item>NUM</item>
+    <item>HEADSETHOOK</item>
+    <item>ФОКУС</item>
+    <item>ПЛУС</item>
+    <item>МЕНИ</item>
+    <item>ИЗВЕСТУВАЊЕ</item>
+    <item>БАРАЈ</item>
+  </string-array>
+</resources>

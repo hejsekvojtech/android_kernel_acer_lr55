@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- This came right out of frameworks/base/include/ui/KeycodeLabels.h -->
+ 	<string-array name="keycode_labels">
+    <item>ຊ້າຍເບົາໆ</item>
+    <item>ຂວາເບົາໆ</item>
+    <item>ໜ້າຫຼັກ</item>
+    <item>ກັບຄືນ</item>
+    <item>ໂທ</item>
+    <item>ຈົບການໂທ</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>ດາວ</item>
+    <item>ພອນ</item>
+    <item>DPAD ຂື້ນ</item>
+    <item>DPAD ລົງ</item>
+    <item>DPAD ຊ້າຍ</item>
+    <item>DPAD ຂວາ</item>
+    <item>DPAD ກາງ</item>
+    <item>ລະດັບສຽງຂື້ນ</item>
+    <item>ລະດັບສຽງລົງ</item>
+    <item>ພະລັງງານ</item>
+    <item>ກ້ອງ</item>
+    <item>ລ້າງ</item>
+    <item>A </item>
+    <item>B </item>
+    <item>C </item>
+    <item>D </item>
+    <item>E </item>
+    <item>F </item>
+    <item>G </item>
+    <item>H </item>
+    <item>I </item>
+    <item>J </item>
+    <item>K </item>
+    <item>L </item>
+    <item>M </item>
+    <item>N </item>
+    <item>O </item>
+    <item>P </item>
+    <item>Q </item>
+    <item>R </item>
+    <item>S </item>
+    <item>T </item>
+    <item>U </item>
+    <item>V </item>
+    <item>W </item>
+    <item>X </item>
+    <item>Y </item>
+    <item>Z </item>
+    <item>ຈຸດ</item>
+    <item>ໄລຍະ</item>
+    <item>ອັນ ຊ້າຍ</item>
+    <item>ອັນ ຂວາ</item>
+    <item>ຊິບ ຊ້າຍ</item>
+    <item>ຊິບ ຂວາ</item>
+    <item>ແທບ</item>
+    <item>ຍະຫວ່າງ</item>
+    <item>SYM </item>
+    <item>ຜູ້ວິໄຈ</item>
+    <item>ຊອງຈົດໝາຍ</item>
+    <item>ເອນເຕີ້</item>
+    <item>ເດວ </item>
+    <item>ເກຼບ </item>
+    <item>ລົບ</item>
+    <item>ເທົ່າກັບ</item>
+    <item>ແບຼກເກັດ ຊ້າຍ</item>
+    <item>ແບຼກເກັດ ຂວາ</item>
+    <item>ທັບຂວາ</item>
+    <item>ເຊມິໂຄໂລນ</item>
+    <item>APOSTROPHE</item>
+    <item>ສະແລັດ </item>
+    <item>ແອັດ </item>
+    <item>ໝາຍເລກ </item>
+    <item>ເຫດເຊັດຮຸກ</item>
+    <item>ໂຟກັດ</item>
+    <item>ບວກ</item>
+    <item>ເມນູ</item>
+    <item>ແຈ້ງເຕືອນ</item>
+    <item>ຊອກຫາ</item>
+  </string-array>
+</resources>

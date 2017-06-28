@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- This came right out of frameworks/base/include/ui/KeycodeLabels.h -->
+ 	<string-array name="keycode_labels">
+    <item>PROGRAMSKO LEVO</item>
+    <item>PROGRAMSKO DESNO</item>
+    <item>DOMOV</item>
+    <item>NAZAJ</item>
+    <item>KLIC</item>
+    <item>KONČAJ KLIC</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>ZVEZDICA</item>
+    <item>LOJTRA</item>
+    <item>NAVZGOR NA SMERNEM KRIŽCU</item>
+    <item>NAVZDOL NA SMERNEM KRIŽCU</item>
+    <item>LEVO NA SMERNEM KRIŽCU</item>
+    <item>DESNO NA SMERNEM KRIŽCU</item>
+    <item>SREDINA NA SMERNEM KRIŽCU</item>
+    <item>POVIŠANJE GLASNOSTI</item>
+    <item>ZNIŽANJE GLASNOSTI</item>
+    <item>VKLOP</item>
+    <item>FOTOAPARAT</item>
+    <item>POČISTI</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>VEJICA</item>
+    <item>PIKA</item>
+    <item>LEVI ALT</item>
+    <item>DESNI ALT</item>
+    <item>LEVI SHIFT</item>
+    <item>DESNI SHIFT</item>
+    <item>TABULATOR</item>
+    <item>PRESLEDEK</item>
+    <item>SYM</item>
+    <item>RAZISKOVALEC</item>
+    <item>OBOJNICA</item>
+    <item>ENTER</item>
+    <item>DEL</item>
+    <item>TILDA</item>
+    <item>MINUS</item>
+    <item>ENAČAJ</item>
+    <item>LEVI OKROGLI OKLEPAJ</item>
+    <item>DESNI OKROGLI OKLEPAJ</item>
+    <item>POŠEVNICA NAZAJ</item>
+    <item>PODPIČJE</item>
+    <item>OPUŠČAJ</item>
+    <item>POŠEVNICA</item>
+    <item>AFNA</item>
+    <item>NUM</item>
+    <item>SLUŠALKA</item>
+    <item>OSTRENJE</item>
+    <item>PLUS</item>
+    <item>MENI</item>
+    <item>OBVESTILO</item>
+    <item>ISKANJE</item>
+  </string-array>
+</resources>

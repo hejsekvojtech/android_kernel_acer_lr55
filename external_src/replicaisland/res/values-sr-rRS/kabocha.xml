@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+<string name="Kabocha_0_2_1_1">
+System check looks good, unit tests are passing, bootstrap is complete!  Oh jolly, he’s responding!  
+</string>
+
+<string name="Kabocha_0_2_1_2">
+Hello there, Android.  I’m Dr. Woodrow Lichtenstein Kabochanomizu, your humble creator.  You’re going to help me find something very precious that I’ve been studying for most of my life: The Source.
+</string>
+
+<string name="Kabocha_0_2_1_3"> Ali prvo, potrebno je da prođemo kroz neke osnove.  Koristite navigaconi točkić ili navigaciono dugme da biste <b>pomerali levo i desno</b>.  Potrebni su vam <b>veoma mali pokreti</b> za efikasno pomeranje.  Kotrljajte se nizbrdo. </string>
+
+<string name="Kabocha_0_2_2_1"> Vrlo dobro!  Učite baš onoliko brzo koliko sam i pretpostavio.  Sjajno!  Zapamtite, navigacioni točkić i navigaciono dugme služe samo za <b>promenu smera</b>.  Nije potrebno da ih stalno pritiskate. </string>
+
+<string name="Kabocha_0_2_2_2"> Naime, kotrljanje je ugodan način za kretanje, ali da bi ste stvarno putovali sa stilom trebalo bi da letite.  <b>Dodirnite plavo dugme u dnu ekrana da biste skočili i držite ga da biste leteli.</b>  Budite oprezni – baterija može da vas drži u vazduhu kratko vreme, a onda je potrebno da je napunite.  Pogledajte metar u gornjem levom uglu ekrana da biste videli preostalu snagu za let. </string>
+
+<string name="Kabocha_0_2_2_3"> Pokušajte da preletite ovaj šaht. </string>
+
+<string name="Kabocha_0_2_3_1">
+Bravo!  Fantastique!  It’s a little scary at first, yes?  Don’t worry, you’ll get the hang of it.  The trick is to just make small movements left and right while in the air. 
+</string>
+
+<string name="Kabocha_0_2_3_2">
+Now my friend, let us give you a more complicated test.  I had my robots turn this part of the lab into something of an obstacle course.  Let’s see if you can make it to the other side.  I’ll be waiting for you there. 
+</string>
+
+<string name="Kabocha_0_2_4_1"> Odlično! U rekordnom vremenu!  Moji proračuni su opet tačni: vi ste najsposobnija mašina koju sam ikada napravio.  Vi ćete sigurno pronaći Izvor tamo gde svi drugi nisu uspeli. </string>
+
+<string name="Kabocha_0_2_4_2"> Da li ste videli te male bisere kako lebde u vazduhu?  Trebalo bi da ih <b>sakupljate</b> dok putujete ostrvom.  Ako ste oštećeni, sakupljanje bisera će <b>pomoći da popravite sistem</b> i daće vam <b>izuzetan energetski štit</b> za neko vreme.  <small>Biseri zapravo nemaju nikakve veze sa vašim funkcionisanjem, ali su mi zaista potrebni kako bih isplatio ovu laboratoriju.  Ekonomija, znate.</small> </string>
+
+<string name="Kabocha_0_2_4_3">
+Jolly good.  Let’s move on.  Push the red button on the ground over there to open the door with the red mark.
+</string>
+
+<string name="Kabocha_0_2_5_1">
+This entire island flows from The Source.  Its power affects the things that get close to it, and this island is consequently full of unique forms of life.  One of them, I’m sorry to say, is my fault.
+</string>
+
+<string name="Kabocha_0_2_5_2"> Pre nekoliko godina pustio sam nekoliko malih robota na ostrvo u pokušaju da otkrijem tačnu lokaciju Izvora.  Greška koju sam napravio je bila ta što sam dopustio da se sami množe.  Izvor ih je uzeo pod svoje tako da sam izgubio kontrolu. Od tada su se toliko namnožili da su male štetočine gotovo zauzele ostrvo. </string>
+
+<string name="Kabocha_0_2_5_3">
+I’ve given you a useful maneuver to dispose of these pesky troublemakers.  While in the air, <b>press the red attack button to drop your full weight onto enemies and crush them</b>.  Give it a shot on that fellow to the left.
+</string>
+
+<string name="Kabocha_0_2_6_1">
+Jolly good!  Way to drop the hammer! <small>(My calculations suggest that phrase is the preferred selection given the state of contemporary language)</small> Of course, you can always just avoid these robotic cretins if you like, but you’ll be doing the island a great service if you destroy them.  Remember, if you get hurt you can collect pearls to restore your health <small>and help me put a dent in my credit card bill</small>.
+</string>
+
+<string name="Kabocha_0_2_6_2"> Još jedna važna stvar koju sam zaboravio da pomenem.  Vaša interna baterija koristi <b>crvene dragulje</b> da sintetiše snagu iz izuzetno slabog osvetljenja.  Istražio sam ostrvo i došao do zaključka da svaka velika oblast ima dovoljno dragulja da vas pokreće, ali neophodno je da ih <b>sakupljate kad god ih vidite</b>.  Moja istraživanja predlažu da bi trebalo da postoje najmanje tri dragulja u svakoj oblasti, a kada dođete do sledeće oblasti potrebno je da <b>sakupite sva tri</b>. </string>
+
+<string name="Kabocha_0_2_6_3">
+Ho ho, we can’t be sending you off into the wild without knowing things like that, can we?  Right-o, ahead is an area with three gems.  Find them and we can move on to more complicated topics, like what you’re doing here and how The Source is going to help me save the world.
+</string>
+
+
+<string name="Kabocha_0_3_1_1"> Izvanredno, moja mala kreacija!  Još malo pa ćete biti spremni da se sami upustite u ovo.  Moram da vam kažem o vašoj misiji, koja je od ključnog značaja za budućnost ove planete.  Ali pre toga, da vam pokažem jedan trik. </string>
+
+<string name="Kabocha_0_3_1_2"> Prvo, prođite kroz ovaj lavirint.  Obavezno sakupljajte crvene dragulje. </string>
+
+<string name="Kabocha_0_3_2_1">
+I’ve outfitted you with a special type of energy weapon that allows you to control machines.  While standing on the ground, <b>hold down the attack button</b> for a few seconds to charge up the <b>Possession Orb</b>.
+</string>
+
+<string name="Kabocha_0_3_2_2"> Kada se oslobodi Lopta posedovanja, svoje kretanje možete da kontrolišete tako što ćete naginjati telefon.  Kada naletite na mehanički objekat, moći ćete da zaposednete taj objekat.  Pritiskanjem dugmeta za napad ćete ga uništiti, što će vratiti kontrolu nad vašim telom. </string>
+
+<string name="Kabocha_0_3_2_3">
+Try possessing that robot down there and using him to break through those blue blocks.  Here’s a hint: releasing a possessed robot causes it to explode.
+</string>
+
+<string name="Kabocha_0_3_3_1">
+Jolly good work!  You’re already asymptotically equal to my best neural net model.  
+</string>
+
+<string name="Kabocha_0_3_3_2"> Još jedna stvar o posedovanju: ove energetske lopte zahtevaju mnogo snage da bi se održale, pa možete da ih koristite samo kratko ukoliko niste sakupili nijedan dragulj.  Sakupljanje dragulja će produžiti količinu vremena koje lopta može da izdrži pre nego što počne da se rasipa. </string>
+
+<string name="Kabocha_0_3_3_3">
+Let’s practice possession a little more.  I’ll meet you up top.
+</string>
+
+<string name="Kabocha_0_3_4_1">
+We don’t actually know what The Source is or where it came from.  My theory is that it’s some sort of nanotechnological machine, constantly sucking matter in from the ocean, breaking it down into its component molecules, and then putting those molecules back together however it sees fit.  If that’s true, it’s probably the creation of humans, but not humans of our time.  Perhaps it was sent back in time by a future civilization, I’m not sure.  On that point my data is insufficient.  Suffice to say it is responsible for this island and everything on it.
+</string>
+
+<string name="Kabocha_0_3_4_2">
+If I can find The Source, I can rid the world of hunger, disease, and war.  With nanotechnology no problem is unsolvable, no goal out of reach.  I’ve been searching for it my whole life, but now I’m old and can no longer venture out on my own.  That’s why I’ve created you for this most important of tasks.
+</string>
+
+<string name="Kabocha_0_3_5_1">
+You’ve done jolly well so far, my little friend.  It’s almost time to release you into the wild.  But before I do that, I need to tell you about our enemies.
+</string>
+
+<string name="Kabocha_0_3_5_2">
+The island is full of danger, but be particularly careful of Rokudou operatives.  The Rokudou Corporation is a huge, soulless multinational run by a maniac.  I’m sure you already have enough synapse nodes to understand that The Source could be used as a horrible weapon if it fell into the wrong hands.  
+</string>
+
+<string name="Kabocha_0_3_5_3">
+L. Rokudou is infamous for having built a successful business out of illegal profiteering, but few know he’s also a psychopath.  I’ve seen his behavior up close, and let me tell you: that man is crazy enough to annihilate the entire world if it would make him king of the rubble.  
+</string>
+
+<string name="Kabocha_0_3_5_4">
+You can be sure he’s looking for The Source, though he’s not foolish enough to do it himself.  He sends agents, wet-behind-the-ears adventurers who don’t know what they’re getting into.  You must avoid them at all costs, and we must find The Source before they do, or the future of the world is in great peril.
+</string>
+
+
+
+<string name="Kabocha_4_3_1_1"> Odličan posao, moj mali prijatelju!  Izvor mi je na dohvat ruke nakon svih ovih godina! </string>
+<string name="Kabocha_4_3_1_2"> Ha ha ha ha ha ha ha ha ha ha ha ha ha ha!  Konačno je došlo moje vreme.  Rokudo, poklonićeš se pred mojim nogama!  Ako dovoljno dobro poližeš moje čizme, možda ću se smilovati da te brzo ubijem.  Razmišljao sam da tvoju koštanu srž polako zamenim rastopljenim olovom, ali to možda neće biti dovoljno bolno. </string>
+<string name="Kabocha_4_3_1_3"> Oh, srećnog li dana!  Najzad, nakon svih mojih istraživanja, moje krvi, znoja i suza, Izvor je konačno moj.  Sada mi niko neće stajati na putu!  Ho ha ha ha ha ha he ha ha ha ho ha he ha ho he ha ha he he ho ho ha he ho ha ha! </string>
+<string name="Kabocha_4_3_1_4">
+(Ahem)  As for you, my little green friend, you’ve reached the end of your usefulness.  As your creator, I thank you for your service.  I really should shut you down properly, but right now The Source and I have more important matters to attend to back at the lab.  Tell you what: your final command is to rot down here in this cave.  See to it that you follow it to the letter. <small>Ta-ta!</small>
+</string>
+
+<string name="Kabocha_final_boss_1_1">
+Don’t waste your breath, Rokudou.  This little robot is <i>my</i> creation, and he does <i>my</i> bidding.
+</string>
+<string name="Kabocha_final_boss_1_2"> Potcenio sam te, moj mali prijatelju.  Tvoje mogućnosti su daleko prevazišle čak i moja najoptimističnija predviđanja.  Ipak, obavezan si da pratiš moju komandu.  Osim toga, Rokudo je bezdušno čudovište.  Zašto misliš da možeš da mu veruješ? </string>
+<string name="Kabocha_final_boss_1_3"> Učini mi uslugu i zakucaj mu glavu. Nekoliko dobrih udaraca će obaviti posao.  Kakva radost! </string>
+</resources>

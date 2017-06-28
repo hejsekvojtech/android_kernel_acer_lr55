@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+<string name="Rokudou_3_9_1_1"> Zdravo, Androide.  Zovem se Rokudo. </string>
+
+<string name="Rokudou_3_9_1_2">
+Ever get the feeling that you are on the wrong team, Android?  Ever wonder if maybe Kabochanomizu isn’t exactly the man he portrays himself to be?
+</string>
+
+<string name="Rokudou_3_9_1_3"> Ti si sjajna mašina.  Trošiš svoj talenat na propalog istraživača poput Kaboče.  Trebalo bi da se pridružiš mom timu. </string>
+
+<string name="Rokudou_3_9_1_4">
+I can see that you are hesitant.  Not surprising; I am sure Kabocha did his best to convince you that he’s a kind-hearted scientist, acting for the greater good of the world.  Make no mistake, Android.  Kabocha is a lunatic--he must not gain access to The Source.
+</string>
+
+<string name="Rokudou_3_9_1_5"> Pridruži se mom timu, Androide.  Pomozi nam da pronađemo Izvor i promenimo svet.  Daću ti malo vremena da razmisliš.  Ja sam strpljiv čovek. </string>
+
+
+<string name="Rokudou_4_1_1_1"> Ne brini o Kajlu, Androide.  On je bio dobar agent, ali je dozvolio da mu uspeh udari u glavu.  Konačno, njegova arogancija je bila njegova najveća slabost.  Sa druge strane, ti si lukav i snalažljiv.  Dobra zabava! </string>
+
+<string name="Rokudou_4_1_1_2">
+The Source has a way of affecting people.  Other teams I sent to this island in the past have vanished without a trace.  The few that made it back returned with fatal health problems.  That’s why an inorganic like you is so perfect for this job.  Make no mistake, The Source is a natural occurrence--nature’s next logical step.  I theorize that it may actually be a tiny piece of a larger whole, a body that created the entire universe!  But there will be plenty of time for academics once we have obtained The Source; for now we must concentrate on finding it.
+</string>
+
+<string name="Rokudou_4_1_1_3"> Jesi li razmislio o mojoj ponudi, Androide?  Još uvek važi.  Pridruži se mom timu: pomozi mi da pronađem Izvor i sačuvam svet od manijaka kao što je Kaboča. </string>
+
+<string name="Rokudou_4_4_1_1"> Android.  Vreme za uljudnost je prošlo.  Kaboča ima Izvor i neće mu puno trebati da nauči kako da kanališe njegovu moć.  Moramo brzo da krenemo ako hoćemo da ga zaustavimo.  Ti sada naša jedina nada. </string>
+
+<string name="Rokudou_4_7_1_1">
+My sensors indicate a large disturbance field not far from here.  That must be the location of Kabocha’s secret lab.  He’s surely shielded it, which means the readings I am picking up are actually a tiny fraction of the power he is generating.  It must be The Source!  We must move quickly if we are to stop him and his insane scheme.
+</string>
+
+<string name="Rokudou_4_7_1_2"> Nastavi, Androide.  Sudbina sveta se približava. </string>
+
+<string name="Rokudou_final_boss_1_1">
+Excellent work, Android.  You have penetrated Kabocha’s secret laboratory.  The Source is within our grasp!
+</string>
+
+<string name="Rokudou_final_boss_1_2"> Brzo sad, olakšaj muke Kaboči.  Možda je star i krhak, ali dokle god on živi, Izvor je u opasnosti. </string>
+
+<string name="Rokudou_final_boss_1_3"> Anroide, prestani da gubiš vreme!  Uništi Kaboču i vladaćemo Svetom! </string>
+</resources>
